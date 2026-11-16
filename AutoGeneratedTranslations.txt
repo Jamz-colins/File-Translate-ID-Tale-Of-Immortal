@@ -1,0 +1,1405 @@
+﻿// =========================================================================
+// KAMUS TERJEMAHAN LENGKAP TALE OF IMMORTAL (鬼谷八荒) + MOD WORKSHOP
+// Edisi Lengkap Bahasa Indonesia (Menu, Kultivasi, Item, Event, NPC & Mod)
+// =========================================================================
+
+// =========================================================================
+// --- 1. DATA ASLI DARI GAME, EVENT & MOD PENGGUNA (SUDAH DIPERBAIKI) ---
+// =========================================================================
+加载中...=Memuat...
+English（Alpha）=Bahasa Inggris (Alfa)
+语言=Bahasa
+<b><color\=#8fb4e0>Cheat Menu Plus</color></b>  <size\=12><color\=#9db0cc>v2.0.16   (F3 to show or hide)</color></size>=<b><color\=#8fb4e0>Cheat Menu Plus</color></b>  <size\=12><color\=#9db0cc>v2.0.16   (F3 untuk menampilkan atau menyembunyikan)</color></size>
+<b><color\=#8fb4e0>Cheat Menu Plus</color></b>=<b><color\=#8fb4e0>Cheat Menu Plus</color></b>
+窗口模式=Mode Jendela
+1280x720=1280x720
+分辨率=Resolusi
+显示设置=Pengaturan Tampilan
+键位设置=Pengaturan Tombol
+系统设置=Pengaturan Sistem
+向他人索要道具，会降低其对你的亲密度。=Meminta item dari orang lain akan menurunkan tingkat kedekatan mereka dengan Anda.
+下一条提示=Tips Berikutnya
+鼠标光标=Kursor Mouse
+帧率=Frame Rate (FPS)
+最高60=Maksimal 60
+战斗图像质量=Kualitas Grafis Pertempuran
+高=Tinggi
+战斗特效质量=Kualitas Efek Pertempuran
+操作方式=Mode Kontrol
+鼠标键盘=Mouse & Keyboard
+手柄按键图标风格=Gaya Ikon Tombol Controller
+垂直同步=V-Sync
+相机抖动=Guncangan Kamera
+新手引导=Panduan Pemula
+输出调试日志=Ekspor Log Debug
+动态立绘=Ilustrasi Dinamis
+播放表情动画=Putar Animasi Ekspresi
+手柄接入提示=Notifikasi Koneksi Controller
+音频设置=Pengaturan Audio
+主音量=Volume Utama
+音效=Efek Suara (SFX)
+背景音乐=Musik Latar
+器灵语音=Suara Roh Artefak
+确定=Konfirmasi
+取消=Batal
+大鬼自动修复存档=Perbaikan Simpanan Otomatis
+充电=Pengisian Daya
+可见状态=Status Visibilitas
+攻击力攻击力攻击力=Kekuatan Serangan
+模组标签=Tag Mod
+额外预览图（可选）=Gambar Pratinjau Tambahan (Opsional)
+是否开源=Apakah Open Source?
+预览图片=Gambar Pratinjau
+本次更新说明=Catatan Pembaruan Ini
+提交此模组即表明您同意了=Dengan mengunggah mod ini, Anda menyetujui
+创意工坊服务条款=Ketentuan Layanan Steam Workshop
+v1.2.113.259=v1.2.113.259
+抵制不良游戏，拒绝盗版游戏。注意自我保护，谨防受骗上当。适度游戏益脑，沉迷游戏伤身。合理安排时间，享受健康生活。=Boikot game buruk dan tolak game bajakan.\nLindungi diri Anda dan waspadalah terhadap penipuan.\nBermain game secukupnya baik untuk otak, bermain berlebihan merusak kesehatan.\nAtur waktu dengan bijak dan nikmati hidup sehat.
+Archive of the Realm=Arsip Alam Kultivasi
+这是公告=Ini adalah pengumuman
+Five Blooms=Lima Mekar (Five Blooms)
+Ground of No Return=Tanah Tak Bertuan (Ground of No Return)
+Quit=Keluar
+Settings=Pengaturan
+Mod=Mod
+Achievements=Pencapaian
+Save Wallpaper=Simpan Wallpaper
+Save File Issues=Masalah File Simpanan
+Create Wallpaper=Buat Wallpaper
+Import Saves=Impor Simpanan
+Export Saves=Ekspor Simpanan
+默认=Default
+列表=Daftar
+极简=Minimalis
+修改存档数量=Ubah Jumlah Slot Simpanan
+刷新存档=Segarkan Simpanan
+0=0
+1=1
+2=2
+3=3
+4=4
+5=5
+6=6
+7=7
+8=8
+9=9
+10=10
+11=11
+12=12
+13=13
+14=14
+15=15
+16=16
+17=17
+18=18
+19=19
+20=20
+21=21
+22=22
+23=23
+24=24
+25=25
+26=26
+27=27
+28=28
+29=29
+30=30
+100=100
+260=260
+308=308
+746=746
+1340=1340
+2457=2457
+99999=99999
+Cancel=Batal
+Artifact Spirit Voice=Suara Roh Artefak
+Music=Musik
+SFX=Efek Suara (SFX)
+Master Volume=Volume Utama
+Audio=Audio
+Controller Access Indication=Notifikasi Koneksi Controller
+Play Expression Animation=Putar Animasi Ekspresi
+Animated Portrait=Potret Animasi
+Export Debug Log=Ekspor Log Debug
+Tutorial=Tutorial
+Screen Shake=Guncangan Layar
+V-Sync=V-Sync
+Joysticks Icon Style=Gaya Ikon Controller
+Mouse and keyboard=Mouse dan Keyboard
+Mode of operation=Mode Kontrol
+Battle VFX Quality=Kualitas Efek Visual Pertempuran
+High=Tinggi
+Battle Graphics Quality=Kualitas Grafis Pertempuran
+Capped at 60=Dibatasi 60 FPS
+FPS=FPS
+Cursor=Kursor
+English (Alpha)=Bahasa Inggris (Alfa)
+Windowed=Mode Jendela
+Resolution=Resolusi
+Video=Tampilan
+Bindings=Pengaturan Tombol
+System=Sistem
+Announcements=Pengumuman
+OK=OK
+Fatury=Fatury
+FAQ=Tanya Jawab (FAQ)
+CREDITS=KREDIT
+　Japanese=　Jepang
+　French=　Prancis
+　Spanish=　Spanyol
+　German=　Jerman
+　Default=　Default
+Language:=Bahasa:
+Powered by\nFouru's ModLib 2.2.26=Didukung oleh\nFouru's ModLib 2.2.26
+Send items to others to increase the Affinity between you and the recipients.=Berikan item kepada orang lain untuk meningkatkan Kedekatan antara Anda dan penerima.
+Change Theme=Ubah Tema
+Major Updates=Pembaruan Besar
+　Latin=　Latin
+　Russian=　Rusia
+　Vietnamese=　Vietnam
+　Thai=　Thailand
+ModCreator=Pembuat Mod
+X=X
+J=J
+M=M
+T=T
+Z=Z
+↔=↔
+▼=▼
+/=/
+-=-
+<<=<<
+<=<
+>=>
+>>=>>
+1/1=1/1
+0/0=0/0
+0/1=0/1
+0/100=0/100
+0/200=0/200
+0/500=0/500
+0/1000=0/1000
+0/2000=0/2000
+0/5000=0/5000
+0/10000=0/10000
+0/20000=0/20000
+0/50000=0/50000
+0/100000=0/100000
+0/200000=0/200000
+0/500000=0/500000
+0/1000000=0/1000000
+421/421=421/421
+1000048/1000048=1000048/1000048
+1000148/1000148=1000148/1000148
+EXP: 2346/2346=EXP: 2346/2346
+修为：99999/10000=Kultivasi: 99999/10000
+<color\=#9db0cc>No save is loaded. Most of these need one.</color>=<color\=#9db0cc>Belum ada simpanan yang dimuat. Sebagian besar fitur memerlukan simpanan aktif.</color>
+<color\=#ff7070>The original Cheat UI is switched on too, so F3 opens both. Switch it off in Mod > Local Mods.</color>=<color\=#ff7070>Cheat UI bawaan juga aktif, sehingga F3 membuka keduanya. Nonaktifkan di Mod > Mod Lokal.</color>
+All cheats off=Nonaktifkan Semua Cheat
+Character=Karakter
+General=Umum
+<b><color\=#8fb4e0>Life</color></b>=<b><color\=#8fb4e0>Kehidupan</color></b>
+Age (months)=Usia (bulan)
+Lifespan (months)=Batas Usia (bulan)
+Charisma=Pesona
+Reputation=Reputasi
+Righteous Points=Poin Kebenaran
+Demonic Points=Poin Iblis
+Gender=Jenis Kelamin
+Male=Pria
+Set=Atur
+<b><color\=#8fb4e0>Condition</color></b>=<b><color\=#8fb4e0>Kondisi</color></b>
+Health / max=Kesehatan / Maks
+Vitality / max=Vitalitas (HP) / Maks
+Energy / max=Energi Roh (MP) / Maks
+Focus / max=Fokus / Maks
+Stamina / max=Stamina / Maks
+Mood / max=Suasana Hati / Maks
+Tao Power / max=Poin Dao / Maks
+<b><color\=#8fb4e0>Growth</color></b>=<b><color\=#8fb4e0>Pertumbuhan</color></b>
+EXP=Pengalaman (EXP)
+Insight=Pemahaman
+Luck=Keberuntungan
+Skill Points=Poin Jurus
+Apply changes=Terapkan Perubahan
+Crit RES=Ketahanan Kritikal
+Crit Rate=Peluang Kritikal
+Crit=Kritikal
+Travel Speed=Kecepatan Jelajah
+Agility=Kelincahan
+DEF=Pertahanan (DEF)
+ATK=Serangan (ATK)
+Combat=Pertempuran
+<b><color\=#8fb4e0>Combat</color></b>=<b><color\=#8fb4e0>Pertempuran</color></b>
+<size\=12><color\=#9db0cc>Applies every changed box on all three tabs. The numbers are the character's own, before gear and destinies.</color></size>=<size\=12><color\=#9db0cc>Menerapkan semua kolom yang diubah di ketiga tab. Angka ini adalah status dasar karakter sebelum perlengkapan dan takdir.</color></size>
+Reload=Muat Ulang
+Crit RES Rate=Peluang Tahan Kritikal
+Martial RES=Ketahanan Bela Diri
+Spiritual RES=Ketahanan Akar Roh
+Arts & Roots=Bela Diri & Akar Roh
+<b><color\=#8fb4e0>Martial Arts</color></b>=<b><color\=#8fb4e0>Seni Bela Diri</color></b>
+Sword=Seni Pedang
+Spear=Seni Tombak
+Blade=Seni Golok
+Fist=Seni Tinju
+Palm=Seni Telapak
+Finger=Seni Jari
+<b><color\=#8fb4e0>Spiritual Roots</color></b>=<b><color\=#8fb4e0>Akar Roh</color></b>
+Fire=Api
+Water=Air
+Lightning=Petir
+Wind=Angin
+Earth=Tanah
+Wood=Kayu
+<b><color\=#8fb4e0>Artisanship</color></b>=<b><color\=#8fb4e0>Keahlian Hidup</color></b>
+Alchemy=Alkimia
+Forge=Penempaan
+Feng Shui=Feng Shui
+Talismans=Pembuatan Jimat
+Herbology=Herbal
+Mining=Pertambangan
+Presets=Preset
+<b><color\=#8fb4e0>Attribute presets</color></b>=<b><color\=#8fb4e0>Preset Atribut</color></b>
+Save the boxes=Simpan Nilai Kolom
+Load into the boxes=Muat ke Kolom
+<color\=#9db0cc></color>=<color\=#9db0cc></color>
+<color\=#9db0cc>Save writes what the boxes on the General, Combat and Arts & Roots tabs show (press Reload there first to save the character as they are now). Load fills those boxes from a preset; press Apply changes to use it. Age and lifespan are left out.</color>=<color\=#9db0cc>Simpan akan mencatat angka pada tab Umum, Pertempuran, dan Bela Diri & Akar Roh (tekan Muat Ulang dulu untuk mengambil status karakter saat ini). Muat akan mengisi kolom dari preset; tekan Terapkan Perubahan untuk memakainya. Usia dan batas usia tidak ikut tersimpan.</color>
+Skin=Kostum / Penampilan
+<b><color\=#8fb4e0>Your outfit picture</color></b>=<b><color\=#8fb4e0>Tampilan Kostum Anda</color></b>
+Show=Tampilkan
+All outfits=Semua Kostum
+Go to what I'm wearing=Lihat yang Sedang Dipakai
+Put back=Kembalikan
+(New Save +)=(Simpanan Baru +)
+Year <color\=#ff0000>1</color> Month <color\=#ff0000>5</color>=Tahun <color\=#ff0000>1</color> Bulan <color\=#ff0000>5</color>
+Year <color\=#FFE686>1</color> Month <color\=#FFE686>5</color> Day <color\=#FFE686>1</color>=Tahun <color\=#FFE686>1</color> Bulan <color\=#FFE686>5</color> Hari <color\=#FFE686>1</color>
+第<color\=#ff0000>1200</color>年<color\=#ff0000>01</color>月=Tahun <color\=#ff0000>1200</color> Bulan <color\=#ff0000>01</color>
+Xu   Mu=Xu Mu
+存档已损=Simpanan rusak
+Qi Refining (I)   Late=Pemurnian Qi (I) Akhir
+请删除此存=Harap hapus simpanan ini
+Click Edit...=Klik Ubah...
+<color\=#9db0cc>Click a picture to wear it at once. Clothes bought in town would cover it, so any you have on go back in your bag. Pictures made by other outfit mods can show your own head behind them. Outfits the game keeps locked are not listed.</color>=<color\=#9db0cc>Klik gambar untuk langsung memakainya. Pakaian yang dibeli di kota akan menutupinya, sehingga pakaian yang sedang dipakai dikembalikan ke tas. Ilustrasi dari mod lain mungkin menampilkan kepala asli Anda di belakangnya. Kostum yang dikunci game tidak ditampilkan.</color>
+NPC=NPC
+Destinies=Takdir
+<b><color\=#8fb4e0>Innate destinies</color></b>=<b><color\=#8fb4e0>Takdir Bawaan</color></b>
+Clear=Bersihkan
+<color\=#a0a0a0>Nothing selected</color>=<color\=#a0a0a0>Belum ada yang dipilih</color>
+<b>All destinies</b>=<b>Semua Takdir</b>
+<b><color\=#8fb4e0>Acquired destinies</color></b>=<b><color\=#8fb4e0>Takdir Tambahan</color></b>
+<size\=12><color\=#9db0cc>Removes every negative destiny the NPC has, innate and acquired. Last Breath, realm bottlenecks and Taoist Mind effects are kept. Cannot be undone.</color></size>=<size\=12><color\=#9db0cc>Menghapus semua takdir negatif milik NPC, baik bawaan maupun tambahan. Efek Napas Terakhir, batas alam kultivasi, dan Pikiran Dao tetap dipertahankan. Tidak dapat dibatalkan.</color></size>
+Clear their negative destinies=Hapus Semua Takdir Negatif
+<color\=#9db0cc>Changes the NPC named above. Saved with the game. A new destiny's one-off effects run as if they were born with it; removing one does not take back what it already gave.</color>=<color\=#9db0cc>Mengubah data NPC yang tercantum di atas dan tersimpan bersama file save. Efek instan takdir baru berlaku seolah-olah dibawa sejak lahir; menghapusnya tidak menarik kembali bonus yang sudah didapat.</color>
+Add as innate destiny=Tambahkan sebagai Takdir Bawaan
+<b>All innate destinies</b>=<b>Semua Takdir Bawaan</b>
+Replace with the one chosen below=Ganti dengan yang Dipilih di Bawah
+Remove=Hapus
+<b><color\=#8fb4e0>Remove</color></b>=<b><color\=#8fb4e0>Hapus</color></b>
+点击添加存档备注=Klik untuk menambahkan catatan simpanan
+Months (blank \= normal)=Bulan (kosong \= permanen/normal)
+Add=Tambah
+<b><color\=#8fb4e0>Add</color></b>=<b><color\=#8fb4e0>Tambah</color></b>
+<color\=#9db0cc>Adding one they already have extends its time instead. Removing a Rewrite Destiny also clears it from their realm record. Saved with the game.</color>=<color\=#9db0cc>Menambahkan takdir yang sudah dimiliki akan memperpanjang durasinya. Menghapus Takdir Terobosan juga menghapusnya dari riwayat alam kultivasi mereka. Tersimpan bersama game.</color>
+<b><color\=#8fb4e0>Rewrite Destiny</color></b>=<b><color\=#8fb4e0>Takdir Terobosan (Rewrite Destiny)</color></b>
+<b>All Rewrite Destiny choices</b>=<b>Semua Pilihan Takdir Terobosan</b>
+Replace=Ganti
+<color\=#9db0cc>Swaps the Rewrite Destiny the NPC took at that realm for another, through the game's own add and remove. The list is empty for an NPC who has not taken one yet.</color>=<color\=#9db0cc>Menukar Takdir Terobosan yang diambil NPC pada alam tersebut dengan takdir lain. Daftar akan kosong jika NPC belum pernah mengambilnya.</color>
+Relations=Hubungan
+Selected NPC=NPC Terpilih
+<b><color\=#8fb4e0>Selected NPC</color></b>=<b><color\=#8fb4e0>NPC Terpilih</color></b>
+Refresh=Segarkan
+Their affinity to you=Kedekatan Mereka ke Anda
+Your affinity to them=Kedekatan Anda ke Mereka
+<color\=#9db0cc>Affinity runs from -300 to 300, 60 to a heart. Asking an NPC for a bond needs their affinity at 120 or more. NPCs propose bonds to you when your affinity to them is high (about 75 for marriage, 100 sworn sibling, 120 Partner, 200 master or disciple). Friends need 60 both ways. Saved with the game.</color>=<color\=#9db0cc>Kedekatan berkisar dari -300 hingga 300 (60 poin = 1 hati). Mengajak NPC menjalin ikatan butuh kedekatan minimal 120. NPC akan melamar ikatan jika kedekatan Anda tinggi (sekitar 75 untuk menikah, 100 saudara angkat, 120 Pasangan Dao, 200 guru/murid). Berteman butuh 60 dua arah.</color>
+<b>Character traits</b>=<b>Kepribadian Karakter</b>
+Whose=Milik
+Internal trait=Sifat Batin
+External traits=Sifat Luar
+Apply traits=Terapkan Kepribadian
+<size\=12><color\=#a0a0a0>Sets the traits shown above for the chosen character. Traits steer how NPCs act and answer requests. Saved with the game.</color></size>=<size\=12><color\=#a0a0a0>Menerapkan kepribadian di atas pada karakter terpilih. Kepribadian menentukan cara NPC bertindak dan merespons permintaan.</color></size>
+Body Swap=Tukar Tubuh
+<b><color\=#8fb4e0>Take over an NPC</color></b>=<b><color\=#8fb4e0>Ambil Alih Tubuh NPC</color></b>
+Possess the last viewed NPC=Rasuki NPC yang Terakhir Dilihat
+<size\=12><color\=#9db0cc>Makes the NPC whose info panel you opened last your character. Back up your save first, then save and restart the game right after.</color></size>=<size\=12><color\=#9db0cc>Menjadikan NPC yang profilnya terakhir Anda buka sebagai karakter utama Anda. Cadangkan save terlebih dahulu, lalu simpan dan restart game segera setelahnya.</color></size>
+Return to your original body=Kembali ke Tubuh Asli Anda
+<size\=12><color\=#9db0cc>Makes your first character the player again. Fails if that body has died. Save and restart the game right after.</color></size>=<size\=12><color\=#9db0cc>Mengembalikan karakter pertama Anda sebagai pemain utama. Gagal jika tubuh asli sudah mati. Simpan dan restart game segera setelahnya.</color></size>
+Battle=Pertempuran
+Reach Origin Spirit in Chaos mode.=Capai tahap Pembentukan Roh dalam mode Chaos.
+Origin Spirit (Chaos)=Pembentukan Roh (Chaos)
+Reach Golden Core in Chaos mode.=Capai tahap Inti Emas dalam mode Chaos.
+Golden Core (Chaos)=Inti Emas (Chaos)
+Reach Qi Condensation in Chaos mode.=Capai tahap Kristalisasi dalam mode Chaos.
+Qi Condensation (Chaos)=Kristalisasi (Chaos)
+Reach Foundation in Chaos mode.=Capai tahap Pembangunan Fondasi dalam mode Chaos.
+Foundation (Chaos)=Pembangunan Fondasi (Chaos)
+Own 100000 Contribution.=Miliki 100.000 Kontribusi Sekte.
+Contributor X=Kontributor X
+Contributor VII=Kontributor VII
+Own 10000 Contribution.=Miliki 10.000 Kontribusi Sekte.
+Contributor VIII=Kontributor VIII
+Own 20000 Contribution.=Miliki 20.000 Kontribusi Sekte.
+Contributor IX=Kontributor IX
+Own 50000 Contribution.=Miliki 50.000 Kontribusi Sekte.
+Own 5000 Contribution.=Miliki 5.000 Kontribusi Sekte.
+Contributor VI=Kontributor VI
+Own 2000 Contribution.=Miliki 2.000 Kontribusi Sekte.
+Contributor V=Kontributor V
+Own 1000 Contribution.=Miliki 1.000 Kontribusi Sekte.
+Contributor IV=Kontributor IV
+Own 500 Contribution.=Miliki 500 Kontribusi Sekte.
+Contributor III=Kontributor III
+Own 200 Contribution.=Miliki 200 Kontribusi Sekte.
+Contributor II=Kontributor II
+Own 100 Contribution.=Miliki 100 Kontribusi Sekte.
+Contributor I=Kontributor I
+Silver Spoon=Terlahir Kaya (Silver Spoon)
+Own 1000000 Spirit Stones.=Miliki 1.000.000 Batu Roh.
+Deep Pockets X=Kantong Tebal X
+Own 500000 Spirit Stones.=Miliki 500.000 Batu Roh.
+Deep Pockets IX=Kantong Tebal IX
+Own 200000 Spirit Stones.=Miliki 200.000 Batu Roh.
+Deep Pockets VIII=Kantong Tebal VIII
+剩余19=Tersisa 19
+Unlockable:=Dapat Dibuka:
+可kekeke解锁：=Syarat Membuka:
+Complete the main mission: The Foolish Old Man Removes the Mountains.=Selesaikan misi utama: Kakek Bodoh Memindahkan Gunung.
+The Foolish Old Man Removes the Mountains=Kakek Bodoh Memindahkan Gunung
+妙手空空=Tangan Hampa Pencuri Ulung
+Refill Vitality, Energy, Focus (world map)=Pulihkan Vitalitas, Energi, & Fokus (Peta Dunia)
+Infinite Focus\n<size\=11><color\=#9db0cc>Your Focus stays full in battle, so pills and artifacts never fail for lack of it. Only you.</color></size>=Fokus Tak Terbatas\n<size\=11><color\=#9db0cc>Fokus Anda selalu penuh dalam pertempuran, sehingga penggunaan pil dan artefak tidak pernah gagal. Hanya berlaku untuk Anda.</color></size>
+Infinite Energy\n<size\=11><color\=#9db0cc>Your Energy stays full in battle, so skills and the movement step never run dry. Only you.</color></size>=Energi Tak Terbatas\n<size\=11><color\=#9db0cc>Energi Roh Anda selalu penuh dalam pertempuran, sehingga jurus dan langkah gerak tidak pernah habis. Hanya berlaku untuk Anda.</color></size>
+Infinite Vitality\n<size\=11><color\=#9db0cc>Your Vitality never drops in battle. Unlike God mode you are still hit, stunned and debuffed. Only you.</color></size>=Vitalitas Tak Terbatas\n<size\=11><color\=#9db0cc>Vitalitas Anda tidak pernah berkurang dalam pertempuran. Tidak seperti Mode Dewa, Anda masih bisa terkena serangan, stun, dan debuff. Hanya berlaku untuk Anda.</color></size>
+Vitals=Status Vital
+<b><color\=#8fb4e0>Vitals</color></b>=<b><color\=#8fb4e0>Status Vital</color></b>
+Achievement=Pencapaian
+Unlocked: 169/169=Terbuka: 169/169
+<size\=12><color\=#9db0cc>Fills your Vitality, Energy and Focus on the world map. With a toggle above on, that bar is also refilled after each battle.</color></size>=<size\=12><color\=#9db0cc>Memulihkan penuh Vitalitas, Energi Roh, dan Fokus di peta dunia. Jika opsi di atas aktif, bar juga terisi penuh setiap selesai bertempur.</color></size>
+God mode\n<size\=11><color\=#9db0cc>Puts the game's own Invincible state on you for the whole battle, so hits do you no harm. Switching it off mid-fight takes the state away again. Only you.</color></size>=Mode Dewa (Kebal)\n<size\=11><color\=#9db0cc>Memberikan status Kebal bawaan game sepanjang pertempuran sehingga serangan tidak melukai Anda. Mematikannya di tengah pertarungan akan mencabut status kebal. Hanya berlaku untuk Anda.</color></size>
+One-hit kill\n<size\=11><color\=#9db0cc>Any hit you deal kills the target. Hits by allies and summons are normal; scripted invincible phases still hold.</color></size>=Satu Pukulan Mati\n<size\=11><color\=#9db0cc>Setiap serangan Anda langsung membunuh target. Serangan rekan dan makhluk panggilan tetap normal; fase kebal khusus bos tetap berlaku.</color></size>
+You'll receive Ores by mining in a space on the world map. The higher the Ore value of the space, the more valuable the Ores you'll receive.=Anda akan memperoleh Mineral dengan menambang di petak peta dunia. Semakin tinggi nilai tambang di petak tersebut, semakin berharga mineral yang didapat.
+Next Tip=Tips Berikutnya
+Download more mods=Unduh Lebih Banyak Mod
+Mod Store=Toko Mod (Workshop)
+Click to make a new mod=Klik untuk membuat mod baru
+Create Mod=Buat Mod
+Click to manage local mods=Klik untuk mengelola mod lokal
+Local Mods=Mod Lokal
+Tale of Immortal Mod Editor=Editor Mod Tale of Immortal
+Mod Editor User Agreement=Perjanjian Pengguna Editor Mod
+No skill cooldown\n<size\=11><color\=#9db0cc>Your martial-art skills can be cast again at once. Energy costs still apply. Only you.</color></size>=Tanpa Cooldown Jurus\n<size\=11><color\=#9db0cc>Jurus bela diri Anda dapat langsung digunakan kembali tanpa jeda. Biaya Energi Roh tetap berlaku. Hanya berlaku untuk Anda.</color></size>
+Hot=Populer
+English=Bahasa Inggris
+16886 mods in total=Total 16.886 mod
+Battle  =Pertempuran  
+Page 1/338=Halaman 1/338
+Battle  <size\=11><color\=#ffd060>9 on</color></size>=Pertempuran  <size\=11><color\=#ffd060>9 aktif</color></size>
+<color\=#ffd060>20 cheats switched on</color>=<color\=#ffd060>20 cheat aktif</color>
+<color\=#9db0cc>No realm has a plan yet.</color>=<color\=#9db0cc>Belum ada rencana terobosan alam kultivasi.</color>
+Spirits & Souls  <size\=11><color\=#ffd060>3 on</color></size>=Roh & Jiwa  <size\=11><color\=#ffd060>3 aktif</color></size>
+World  <size\=11><color\=#ffd060>3 on</color></size>=Dunia  <size\=11><color\=#ffd060>3 aktif</color></size>
+Cultivation  <size\=11><color\=#ffd060>3 on</color></size>=Kultivasi  <size\=11><color\=#ffd060>3 aktif</color></size>
+Loading...=Memuat...
+Skills  <size\=11><color\=#ffd060>2 on</color></size>=Jurus  <size\=11><color\=#ffd060>2 aktif</color></size>
+58%(18)=58%(18)
+Subscribe=Berlangganan (Pasang)
+《易》原版视频立绘扩展6件第二期.贰卷=Ekspansi Ilustrasi Video Orisinal "Yi" 6 Kostum Edisi 2 Vol. 2
+56%(13)=56%(13)
+【暗号】福利立绘第一期（2）=[Kode Rahasia] Ilustrasi Karakter Spesial Edisi 1 (2)
+59%(24)=59%(24)
+1.9k=1,9 rb
+Destiny,Battle,Cosmetic,Plot,NPC=Takdir, Pertempuran, Kosmetik, Cerita, NPC
+63%(37)=63%(37)
+61%(29)=61%(29)
+Destiny,Function,English=Takdir, Fitur, Bahasa Inggris
+在外貌部件选择列表中，直接在每个部件的缩略图上显示其魅力贡献值。(正值\=绿色，负值\=红色，0\=灰色Displays each appearance component’s charm contribution directly on its thumbnail in the selection list. (Positive \= green, Negative \= red, 0 \= gray)외모 요소 선택 목록에서 각 요소의 매력 기여값을 썸네일 위에 바로 표시합니다. (양수\=초록색, 음수\=빨간색, 0\=회색)=Menampilkan nilai kontribusi pesona setiap komponen penampilan langsung pada ikon pratinjau (Positif \= hijau, Negatif \= merah, 0 \= abu-abu).
+魅力覆盖 (Charm Values, 매력값 표시)=Tampilan Nilai Pesona (Charm Values)
+懶得寫故事了 群:791620889=Malas menulis cerita | Grup: 791620889
+Unsubscribe=Berhenti Berlangganan
+Mod Directory:C:\\Program Files (x86)\\Steam\\steamapps\\workshop\\content\\1468810\\3703023286=Direktori Mod: C:\\Program Files (x86)\\Steam\\steamapps\\workshop\\content\\1468810\\3703023286
+Having a drink in Tavern may give you bonus stats at the cost of Spirit Stones.=Minum di Kedai Arak dapat memberikan bonus atribut dengan membayar Batu Roh.
+Mod Tags=Tag Mod
+Visible Status=Status Visibilitas
+焚霄凰=Fen Xiaohuang
+创建时间2026_08_05_20_06_02=Waktu pembuatan: 2026_08_05_20_06_02
+莲香=Lianxiang
+Theme=Tema
+有npc，无战斗小人=Ada NPC, tanpa model karakter pertarungan
+白洁=Bai Jie
+创建时间2026_08_04_10_14_31=Waktu pembuatan: 2026_08_04_10_14_31
+苏雅琴=Su Yaqin
+创建时间2026_07_30_10_46_59=Waktu pembuatan: 2026_07_30_10_46_59
+白静香=Bai Jingxiang
+更新一下证明作者还活着（狗头），喜欢的点点赞，谢谢~我的群号各位若是有兴趣的可以添加一下：1080336728、651136938（随便进一个就行）=Pembaruan kecil untuk membuktikan pembuat mod masih hidup, silakan beri like jika suka, terima kasih~ Jika berminat silakan gabung grup QQ: 1080336728 atau 651136938.
+<size\=28><color\=#00BFFF>【闲人】</color></size><color\=#ff0000><size\=20>❀陆素容❀</size></color>=<size\=28><color\=#00BFFF>【Pengelana Bebas】</color></size><color\=#ff0000><size\=20>❀Lu Surong❀</size></color>
+Increase Skill Memory Slot by alot, if you want to learn all kind of skills.Slots is 8 x Grade:8 at Qi Refining,80 at TranscendentMind Skill is 8 x Grade:10 at Qi Refining100 at Transcendent=Menambah banyak slot memori jurus agar bisa mempelajari semua jenis teknik. Slot Jurus = 8 x Tingkat Alam (8 di Pemurnian Qi, 80 di Keabadian). Teknik Batin = 10 di Pemurnian Qi, 100 di Keabadian.
+More Skill Memory Slot=Slot Memori Jurus Ekstra
+<b><color\=#811328><size\=25>Mod制作拓展</size></color></b>=<b><color\=#811328><size\=25>Ekspansi Pembuatan Mod</size></color></b>
+让游戏显示更多技能BUFF。\r=Menampilkan lebih banyak ikon buff jurus di layar pertempuran.\r
+更多的增益技能显示=Tampilan Buff Jurus Tambahan
+可以锁定最多9个先天气运, 可以选择10个.更多mod加入QQ交流群: 1074288209 (在做技能升级和改变容貌/性格/姓名的mod)=Dapat mengunci hingga 9 Takdir Bawaan dan memilih 10 takdir sekaligus. Gabung grup QQ: 1074288209 untuk mod lainnya.
+【李白】锁定多个先天气运=[Li Bai] Kunci Banyak Takdir Bawaan
+<size\=25><color\=#2468a2>显示副本特殊单位所在位置</color>=<size\=25><color\=#2468a2>Menampilkan lokasi objek khusus di dalam dungeon</color>
+<size\=25>副本中，<color\=#2468a2>能看到宝箱</color>，<color\=#2468a2>BOSS</color>，<color\=#401c44>躺着装死的NPC，<color\=#f15a22>药园</color>所在位置=<size\=25>Di dalam dungeon, <color\=#2468a2>dapat melihat posisi Peti Harta</color>, <color\=#2468a2>BOS</color>, <color\=#401c44>NPC yang berpura-pura pingsan</color>, dan <color\=#f15a22>Kebun Herbal</color>
+Warning=Peringatan
+Monster Quantity: Extremely High=Jumlah Monster: Sangat Tinggi
+Monster Damage: Extremely High=Serangan Monster: Sangat Tinggi
+Monster Vitality: Extremely High=Vitalitas Monster: Sangat Tinggi
+Your save will be <color\=#DB0000>permanently deleted</color> if you die before reaching Nascent Soul (VI)!\nIf you die after reaching Nascent Soul (VI), Body Reconstruction will take <color\=#DB0000>10 min</color>.\n=Simpanan Anda akan <color\=#DB0000>dihapus permanen</color> jika mati sebelum mencapai Jiwa Baru Lahir (VI)!\nJika mati setelah mencapai Jiwa Baru Lahir (VI), Rekonstruksi Tubuh memakan waktu <color\=#DB0000>10 menit</color>.\n
+Qi: Very Low=Qi: Sangat Rendah
+Herb: Very Low=Herbal: Sangat Rendah
+Ore: Very Low=Mineral: Sangat Rendah
+Price: Extremely High=Harga: Sangat Tinggi
+Bagua Jade Points:1=Poin Giok Bagua: 1
+Monster Quantity: Very High=Jumlah Monster: Tinggi Sekali
+Monster Damage: Very High=Serangan Monster: Tinggi Sekali
+Monster Vitality: Very High=Vitalitas Monster: Tinggi Sekali
+Your character will die for good when you run out of Bagua Jade Points.=Karakter Anda akan mati permanen jika kehabisan Poin Giok Bagua.
+Bagua Jade Points:3=Poin Giok Bagua: 3
+Price: Very High=Harga: Tinggi Sekali
+Ore: Low=Mineral: Rendah
+Vitality of all monsters.=Vitalitas seluruh monster.
+Damage of all monsters.=Serangan seluruh monster.
+Herb: Low=Herbal: Rendah
+Qi: Low=Qi: Rendah
+Number of monsters in each battle.=Jumlah monster dalam setiap pertempuran.
+Monster Quantity: High=Jumlah Monster: Tinggi
+Generate 100% of max NPCs=Munculkan 100% jumlah maksimal NPC
+Monster Damage: High=Serangan Monster: Tinggi
+Monster Vitality: High=Vitalitas Monster: Tinggi
+Bagua Jade Points:6=Poin Giok Bagua: 6
+<size\=25>【Version 1.2.113 Update Notes】</size>Updated on Ink-Dancing Steed 6, 2026\n1.Added new mount "Crimson Cloud Lion".\n2.Optimized new Year of the Horse outfit: "Ink-Dancing Steed".\n=<size\=25>【Catatan Pembaruan Versi 1.2.113】</size>Diperbarui pada 6 Feb 2026\n1. Menambahkan tunggangan baru "Singa Awan Merah".\n2. Mengoptimalkan kostum Tahun Kuda baru: "Kuda Penari Tinta".\n
+After using an Elixir while in combat, all other Elixirs will also enter cooldown, so make sure that you use Elixirs at the right moment.=Setelah menggunakan pil dalam pertempuran, semua pil lainnya juga akan memasuki masa jeda (cooldown), jadi pastikan Anda menggunakannya di saat yang tepat.
+Enter World=Masuki Dunia
+进入户籍=Masuk ke Catatan Penduduk
+<size\=25>【1.2.107 版本更新内容】</size>2025年2月15日14时更新\n1.新增了天生携带噬魂剑的NPC(达到筑基境后且存档中不存在噬魂剑，在华封州及之后的区域移动有概率触发)。\n2.修复了大能传功剧情可能会选到异人NPC的问题。\n3.修复了仙盟琅琊主阁和仙祠商店不刷新刀大法的问题。\n4.修复了宗门战资源显示没有显示援军带来的资源，导致界面上显示的资源与实际的资源不符的问题。\n5.修复了炼器时球的火球显示为水球的问题。\n6.修复了五朵金花的头像在某些情况下显示错误的问题。\n7.修复了通关成就(仁者无敌和清心寡欲)在某些情况下无法达成的问题。\n8.优化了天级悬赏副本的战斗体验。=<size\=25>【Catatan Pembaruan Versi 1.2.107】</size>15 Februari 2025\n1. Menambahkan NPC pembawa Pedang Pemakan Jiwa.\n2. Memperbaiki bug cerita pewarisan kekuatan tetua.\n3. Memperbaiki penyegaran kitab jurus golok di Paviliun Langya.\n4. Memperbaiki tampilan sumber daya perang sekte.\n5. Memperbaiki efek bola api saat penempaan.\n6. Memperbaiki potret Lima Bunga Emas.\n7. Memperbaiki syarat pencapaian tamat game.\n8. Mengoptimalkan pengalaman dungeon buronan tingkat langit.
+在城镇中可以购买到各种普通丹药。=Berbagai pil pemulihan umum dapat dibeli di dalam kota.
+模组上传工具=Alat Unggah Mod
+开始上传=Mulai Unggah
+点击编辑...=Klik untuk Mengedit...
+是的阿萨德阿萨德阿萨德=Teks Uji Coba
+是的=Ya
+出售价格：20灵山=Harga Jual: 20 Lingshan
+当前持有10=Dimiliki saat ini: 10
+No step or item cooldown\n<size\=11><color\=#9db0cc>Your movement step, pills and artifacts lose their battle cooldown. Per-battle pill limits stay. Only you.</color></size>=Tanpa Cooldown Gerak & Item\n<size\=11><color\=#9db0cc>Jurus gerak, pil, dan artefak Anda tidak memiliki jeda waktu di pertempuran. Batas pemakaian pil per pertarungan tetap berlaku. Hanya berlaku untuk Anda.</color></size>
+Outcomes=Hasil
+<b><color\=#8fb4e0>Outcomes</color></b>=<b><color\=#8fb4e0>Hasil</color></b>
+普通模式下达到结晶境界可解锁此难度普通模式下达到结晶境界可解锁此难度=Capai tahap Kristalisasi di mode Normal untuk membuka tingkat kesulitan ini.
+Plentiful=Melimpah
+Sparse=Jarang
+Amount of NPCs=Jumlah Populasi NPC
+Select Difficulty=Pilih Tingkat Kesulitan
+Escape always succeeds\n<size\=11><color\=#9db0cc>Every flee you attempt succeeds, in battle or on the map. Only you.</color></size>=Selalu Berhasil Kabur\n<size\=11><color\=#9db0cc>Setiap upaya melarikan diri di pertempuran maupun di peta dunia pasti berhasil. Hanya berlaku untuk Anda.</color></size>
+Full drop rate\n<size\=11><color\=#9db0cc>Every loot roll in battle gives an item; which item still follows the game's odds.</color></size>=Peluang Drop 100%\n<size\=11><color\=#9db0cc>Setiap peluang rampasan dalam pertempuran pasti menjatuhkan item; jenis item tetap mengikuti peluang bawaan game.</color></size>
+Always capture monsters\n<size\=11><color\=#9db0cc>Every monster weak enough for the gourd to absorb is captured. A full gourd still refuses.</color></size>=Selalu Berhasil Menangkap Siluman\n<size\=11><color\=#9db0cc>Setiap monster yang cukup lemah untuk diserap Labu Mitos pasti tertangkap. Jika labu penuh tetap ditolak.</color></size>
+Stealing=Pencurian
+<b><color\=#8fb4e0>Stealing</color></b>=<b><color\=#8fb4e0>Pencurian</color></b>
+Stealing always succeeds\n<size\=11><color\=#9db0cc>Your steals from other people always succeed. Only you.</color></size>=Mencuri Selalu Berhasil\n<size\=11><color\=#9db0cc>Setiap upaya mencuri item dari NPC pasti berhasil. Hanya berlaku untuk Anda.</color></size>
+Never caught stealing\n<size\=11><color\=#9db0cc>The person you steal from never notices. Only you.</color></size>=Tidak Pernah Ketahuan Mencuri\n<size\=11><color\=#9db0cc>Target yang Anda curi tidak akan pernah menyadarinya. Hanya berlaku untuk Anda.</color></size>
+<b><color\=#8fb4e0>Add items</color></b>=<b><color\=#8fb4e0>Tambah Item</color></b>
+Category=Kategori
+All items=Semua Item
+Count=Jumlah
+Add to list=Tambah ke Daftar
+Stone Array may light up the area around it for you.=Formasi Batu dapat menerangi area gelap di sekitarnya untuk Anda.
+<color\=#9db0cc>The kit is what the game's breakthrough screen asks for: the best quality of each breakthrough elixir, one of each element's Qi item, and one of each Heaven and Earth material. Soul Formation gives a Breath of Soul Formation worth 16 shards and any Divine Soul you have not activated (use each soul from your bag). Enlightenment gives the best Enlightenment Elixir and 3 full-purity Tao Souls that combine, in your three strongest attributes. Look it over in the list, then Give all.</color>=<color\=#9db0cc>Paket ini berisi seluruh syarat terobosan alam: pil terobosan kualitas terbaik, 1 Qi dari tiap elemen, dan 1 tiap Harta Langit & Bumi. Tahap Transformasi Dewa memberi Napas Transformasi Dewa (16 pecahan) serta Jiwa Ilahi yang belum aktif. Tahap Pencerahan Dao memberi Pil Pencerahan terbaik dan 3 Jiwa Tao kemurnian penuh. Periksa daftarnya, lalu tekan Berikan Semua.</color>
+Put in the list=Masukkan ke Daftar
+Attention! If you see two girls with white hair, please don't get close to them and ask them to return to their father.=Perhatian! Jika Anda melihat dua gadis berambut putih, jangan mendekat dan mintalah mereka kembali kepada ayahnya.
+Breakthrough into=Terobosan Menuju
+<b><color\=#8fb4e0>Breakthrough kits</color></b>=<b><color\=#8fb4e0>Paket Bahan Terobosan</color></b>
+<color\=#9db0cc>The list is empty. Pick an item above and press Add to list, or put a kit in it below.</color>=<color\=#9db0cc>Daftar masih kosong. Pilih item di atas lalu tekan Tambah ke Daftar, atau masukkan paket terobosan di bawah.</color>
+<color\=#9db0cc>Change a count in its box before Give all. The list is kept until the game closes. Only you.</color>=<color\=#9db0cc>Ubah jumlah pada kolom angka sebelum menekan Berikan Semua. Daftar tersimpan hingga game ditutup. Hanya berlaku untuk Anda.</color>
+Clear the list=Kosongkan Daftar
+Give all=Berikan Semua
+<b><color\=#8fb4e0>Give list</color></b>=<b><color\=#8fb4e0>Daftar Pemberian</color></b>
+<color\=#9db0cc>Add puts the item in your bag; Imp items go to the Imp inventory. Gear, artifacts and other single pieces arrive one each, at most 50 per click. Add to list collects items to give together (below). Remove takes from your bag and never touches anything equipped. Only you.</color>=<color\=#9db0cc>Tambah akan memasukkan item ke tas Anda; item siluman masuk ke tas Labu Mitos. Perlengkapan dan artefak masuk 1 per buah (maksimal 50 per klik). Hapus akan mengambil dari tas tanpa menyentuh yang sedang dipakai. Hanya berlaku untuk Anda.</color>
+<color\=#d0d0d0>1 x G1 Foundation Elixir (Mortal), 1 x Fire Qi, 1 x Water Qi, 1 x Lightning Qi, 1 x Wind Qi, 1 x Earth Qi, 1 x Wood Qi, 1 x Sandbury Bone, 1 x Duskflower Dew, 1 x Millennium Stalactite, 1 x Scarlet Fruit, 1 x Jade Dragon Frost, 1 x Fire Jade</color>=<color\=#d0d0d0>1x Pil Fondasi Fana (G1), 1x Qi Api, 1x Qi Air, 1x Qi Petir, 1x Qi Angin, 1x Qi Tanah, 1x Qi Kayu, 1x Tulang Sandbury, 1x Embun Bunga Senja, 1x Stalaktit Milenium, 1x Buah Merah, 1x Embun Beku Naga Giok, 1x Giok Api</color>
+Titles=Gelar
+<b><color\=#8fb4e0>Taoist titles</color></b>=<b><color\=#8fb4e0>Gelar Kultivator (Dao)</color></b>
+大鬼修复存档MOD检测中...=Mod Perbaikan Simpanan Dagui sedang memeriksa...
+All titles=Semua Gelar
+Basic Manuals can be purchased at the Market in various towns.=Kitab Jurus Dasar dapat dibeli di Pasar yang tersebar di berbagai kota.
+检测建筑数据 100.00% 修复:宗门-0 建木-0=Pemeriksaan data bangunan 100,00% | Diperbaiki: Sekte-0, Pohon Jianmu-0
+Grant=Anugerahkan
+Remove title=Hapus Gelar
+There are 12 skill levels, ranging from I to XII.=Terdapat 12 tingkat penguasaan jurus, mulai dari Tingkat I hingga XII.
+<color\=#9db0cc>Grant gives you the title with its own effects, as if earned. A title someone else holds stays theirs too, and they may challenge you for it. Remove takes one of yours away. Only you.</color>=<color\=#9db0cc>Anugerahkan akan memberi Anda gelar beserta efeknya seolah-olah diraih sendiri. Pemilik sebelumnya tetap memilikinya dan mungkin akan menantang Anda. Hapus akan mencabut gelar Anda. Hanya berlaku untuk Anda.</color>
+Rules=Aturan Game
+<b><color\=#8fb4e0>Using items</color></b>=<b><color\=#8fb4e0>Penggunaan Item</color></b>
+Upgrade skills to unlock their special effects.=Tingkatkan tingkat pemahaman jurus untuk membuka efek spesialnya.
+Use elixirs and charms above your realm\n<size\=11><color\=#9db0cc>Elixirs, charms and other usable items ignore their realm requirement, in the bag and in battle. Only you.</color></size>=Gunakan Pil & Jimat Melampaui Alam Kultivasi\n<size\=11><color\=#9db0cc>Pil, jimat, dan item konsumsi lainnya mengabaikan batas alam kultivasi di tas maupun di pertempuran. Hanya berlaku untuk Anda.</color></size>
+Equip gear above your realm\n<size\=11><color\=#9db0cc>Rings, mounts, outfits and artifacts ignore their realm requirement. Artifacts still need enough Focus. Only you.</color></size>=Pasang Perlengkapan Melampaui Alam Kultivasi\n<size\=11><color\=#9db0cc>Cincin, tunggangan, kostum, dan artefak mengabaikan syarat alam kultivasi. Artefak tetap membutuhkan Fokus yang cukup. Hanya berlaku untuk Anda.</color></size>
+<b><color\=#8fb4e0>Upkeep</color></b>=<b><color\=#8fb4e0>Perawatan & Konsumsi</color></b>
+Items are not used up\n<size\=11><color\=#9db0cc>Using an item from your bag or the battle bar keeps it. Selling, gifting and discarding still remove items. Only you.</color></size>=Item Tidak Pernah Habis Dipakai\n<size\=11><color\=#9db0cc>Menggunakan item dari tas atau bilah pertempuran tidak mengurangi jumlahnya. Menjual, memberi hadiah, dan membuang tetap mengurangi item. Hanya berlaku untuk Anda.</color></size>
+It's always wise to know someone's network of relationships before you made them your enemy.=Selalu bijak untuk memeriksa jaringan hubungan seseorang sebelum menjadikannya musuh.
+Artifacts never lose durability\n<size\=11><color\=#9db0cc>Your artifacts keep their durability in battle, so they never break. Repairs still work. Only you.</color></size>=Artefak Tidak Pernah Rusak\n<size\=11><color\=#9db0cc>Daya tahan artefak Anda tidak berkurang dalam pertempuran sehingga tidak pernah hancur. Fitur perbaikan tetap berfungsi. Hanya berlaku untuk Anda.</color></size>
+Inspecting another person's Inventory requires Focus. The higher your Focus, the more items you can see.=Memeriksa tas milik orang lain membutuhkan Fokus. Semakin tinggi Fokus Anda, semakin banyak isi tas yang terlihat.
+Stamina never runs out\n<size\=11><color\=#9db0cc>Your Stamina is refilled whenever it drops, and alchemy costs none. Only you.</color></size>=Stamina Tidak Pernah Habis\n<size\=11><color\=#9db0cc>Stamina Anda langsung terisi penuh saat berkurang, dan meracik pil tidak memakan stamina. Hanya berlaku untuk Anda.</color></size>
+Clean up=Bersihkan Tas
+<b><color\=#8fb4e0>Clean up</color></b>=<b><color\=#8fb4e0>Pembersihan Penyimpanan</color></b>
+To test your skills, you may go to Martial Arts Arena and have a battle with the dummy there.=Untuk menguji jurus Anda, pergilah ke Arena Seni Bela Diri dan bertarunglah melawan boneka latihan di sana.
+Keep Spirit Stones=Simpan Batu Roh
+Keep quest items, recipes and furnaces=Simpan Item Misi, Resep & Tungku
+<color\=#9db0cc>Equipped items, items you marked in the bag, Sect Contribution and the other currencies are always kept.</color>=<color\=#9db0cc>Perlengkapan yang terpasang, item yang ditandai di tas, Kontribusi Sekte, dan mata uang lainnya selalu dipertahankan.</color>
+Cultivators in Golden Core (IV) and above will leave a Last Breath after they were killed, and may be revived with certain elixirs.=Kultivator tahap Inti Emas (IV) ke atas akan meninggalkan Sisa Napas Terakhir saat terbunuh dan dapat dihidupkan kembali dengan pil tertentu.
+Empty the Tree Vault=Kosongkan Penyimpanan Jianmu
+<size\=12><color\=#9db0cc>Deletes everything stored in your Tree Vault except the currencies kept above. Cannot be undone.</color></size>=<size\=12><color\=#9db0cc>Menghapus seluruh isi Penyimpanan Pohon Jianmu kecuali mata uang yang dicentang di atas. Tidak dapat dibatalkan.</color></size>
+检测角色数据 2067/2067 修复:境界-0 天骄-0 性格-0 道具-0 秘籍-0 气运-6 任务-0 器灵-0 道号-0 立绘-0 技能-0=Pemeriksaan data karakter 2067/2067 | Diperbaiki: Takdir-6
+检测所有角色生平日志数据 100.00% 修复:日志-0=Pemeriksaan riwayat hidup seluruh karakter 100,00% | Diperbaiki: Log-0
+Discard all manuals=Buang Semua Kitab Jurus
+<size\=12><color\=#9db0cc>Deletes every manual in your bag. Learned skills stay. Cannot be undone.</color></size>=<size\=12><color\=#9db0cc>Menghapus seluruh kitab jurus di dalam tas Anda. Jurus yang sudah dipelajari tetap ada. Tidak dapat dibatalkan.</color></size>
+Martial Skill=Jurus Bela Diri
+Always add red (G1)\n<size\=11><color\=#9db0cc>Books and skills added from this tab are always G1 (red), whatever quality is chosen. Only affects this menu.</color></size>=Selalu Tambah Kualitas Merah (G1)\n<size\=11><color\=#9db0cc>Kitab dan jurus yang ditambahkan dari tab ini selalu berkualitas Merah (G1), apa pun kualitas yang dipilih. Hanya berlaku di menu ini.</color></size>
+<b><color\=#8fb4e0>Skill books</color></b>=<b><color\=#8fb4e0>Kitab Jurus</color></b>
+Books=Kitab
+<size\=12><color\=#a0a0a0>Removes all stacks of the picked item from your bag. Cannot be undone.</color></size>=<size\=12><color\=#a0a0a0>Menghapus seluruh tumpukan item terpilih dari tas Anda. Tidak dapat dibatalkan.</color></size>
+Taoist Mind - Perfection=Pikiran Dao - Kesempurnaan
+展开修复详情=Tampilkan Detail Perbaikan
+\n删除3个无效月结日志=\nMenghapus 3 log bulanan tidak valid
+充电支持大鬼=Dukung Pembuat Mod Dagui
+加入大鬼QQ群=Gabung Grup QQ Dagui
+前往哔哩哔哩=Kunjungi Bilibili
+\nLifespan =\nBatas Usia 
+前往大鬼首页=Kunjungi Halaman Utama Dagui
+Golden Rainbow Sect Yong Ning Branch=Cabang Yongning Sekte Pelangi Emas
+Foundation - Mortal=Fondasi Dao Fana
+Foundation - Earth=Fondasi Dao Bumi
+Foundation - Heaven=Fondasi Dao Surgawi
+3 methods (Foundation (II))=3 Metode Terobosan (Pembangunan Fondasi II)
+能收方可傲人间=Mampu mengumpulkan baru bisa berbangga di dunia fana
+会放不是真好汉=Tak rela melepaskan bukanlah pahlawan sejati
+筑成根基可逆天=Membangun fondasi kokoh demi menantang takdir langit
+混元一气炼丹田=Menyatukan Qi Primordial untuk menempa Dantian
+Soul Formation (Ⅶ)境=Alam Transformasi Dewa (VII)
+小心点=Hati-hati!
+冥羽状态=Status Sayap Nether (Mingyu)
+图片在是是的都是是的是的是的是的是的是的=Teks Uji Gambar
+信誓旦旦说是是的但是\n是多少颠三倒四的撒大声地=Dialog Uji Coba
+信誓旦旦说是是的但是\n是多少颠三倒四的撒大声地地地=Dialog Uji Coba
+伤心的事=Hal yang Menyedihkan
+已图片=Gambar Terpasang
+主机是=Tuan rumah adalah
+Breakthrough Info=Informasi Terobosan
+Necessary Materials=Bahan yang Diperlukan
+Heaven and Earth Treasure=Harta Langit dan Bumi
+Auto Add=Isi Otomatis
+住其他、住其住其他、住其住=Atribut Lainnya
+（住其他）=(Atribut Lainnya)
+住其他=Atribut Lainnya
+住其他	 <color\="#027600">+99999</color>\n住其他	 <color\="#027600">+99999</color>\n道点	 <color\="#027600">+99999</color>=Atribut Lain	 <color\="#027600">+99999</color>\nAtribut Lain	 <color\="#027600">+99999</color>\nPoin Dao	 <color\="#027600">+99999</color>
+ 突破瓶颈= Terobos Batas Alam
+是的想的=Ya, benar
+初七=Hari Ketujuh Bulan Lunar
+Necessary\nMaterials=Bahan yang\nDiperlukan
+Heaven and Earth\nTreasure=Harta Langit\n& Bumi
+自动攻击<color\=#16278b><u>切换</u></color>=Serangan Otomatis <color\=#16278b><u>Ganti</u></color>
+大鬼修复存档MOD=Mod Perbaikan Simpanan Dagui
+Breath=Napas
+存档修复完成，总共修补了3处错误。\n本次修复存档耗时52.92秒。\n八荒大鬼为你的存档保驾护航！=Perbaikan simpanan selesai, 3 kesalahan berhasil diperbaiki.\nWaktu proses: 52,92 detik.\nMod Dagui siap menjaga file simpanan Anda!
+G1 Foundation Elixir (Mortal)=Pil Fondasi Fana Tingkat 1 (G1)
+G2 Foundation Elixir (Mortal)=Pil Fondasi Fana Tingkat 2 (G2)
+G3 Foundation Elixir (Mortal)=Pil Fondasi Fana Tingkat 3 (G3)
+G4 Foundation Elixir (Mortal)=Pil Fondasi Fana Tingkat 4 (G4)
+G5 Foundation Elixir (Mortal)=Pil Fondasi Fana Tingkat 5 (G5)
+G6 Foundation Elixir (Mortal)=Pil Fondasi Fana Tingkat 6 (G6)
+Foundation - MortalRequires 1/6 of the materials from below=Fondasi Dao Fana\nMembutuhkan 1/6 dari bahan di bawah
+Foundation - MortalRequires 1 /6 of the Heaven and Earth Treasures from below=Fondasi Dao Fana\nMembutuhkan 1/6 dari Harta Langit & Bumi di bawah
+Reach Foundation - Mortal to increase your stats by a small amount=Capai Fondasi Dao Fana untuk meningkatkan atribut dalam jumlah kecil
+Foundation - EarthRequires 3/6 of the materials from below=Fondasi Dao Bumi\nMembutuhkan 3/6 dari bahan di bawah
+Foundation - EarthRequires 2 /6 of the Heaven and Earth Treasures from below=Fondasi Dao Bumi\nMembutuhkan 2/6 dari Harta Langit & Bumi di bawah
+Reach Foundation - Earth to increase your stats by a large amount=Capai Fondasi Dao Bumi untuk meningkatkan atribut dalam jumlah besar
+Foundation - HeavenRequires 6/6 of the materials from below=Fondasi Dao Surgawi\nMembutuhkan 6/6 dari bahan di bawah
+Foundation - HeavenRequires 3 /6 of the Heaven and Earth Treasures from below=Fondasi Dao Surgawi\nMembutuhkan 3/6 dari Harta Langit & Bumi di bawah
+Reach Foundation - Heaven to increase your stats by an enormous amount=Capai Fondasi Dao Surgawi untuk meningkatkan atribut dalam jumlah sangat besar
+Foundation (II)Method=Metode Terobosan Pembangunan Fondasi (II)
+Find Three-legged Crows (28 Space(s))=Temukan Gagak Berkaki Tiga (28 Petak)
+Find Three-legged Crows (24 Space(s))=Temukan Gagak Berkaki Tiga (24 Petak)
+配图：bingyuan=Ilustrasi: Dataran Es
+配图：shaonvqiqiu=Ilustrasi: Gadis Memohon
+标题标11111111111=Judul Uji Coba
+阿萨德阿萨德阿萨德阿萨德阿萨德阿萨德阿萨德阿萨德阿萨德阿萨德阿萨德阿萨德阿萨德阿萨德阿萨德阿萨德阿萨德阿萨德阿萨德阿萨德阿萨德阿萨德阿萨德阿萨德阿萨德阿萨德阿萨德阿萨德阿萨德阿萨德阿萨德阿萨德阿萨德阿萨德=Teks Uji Coba
+N:20 E:43=U:20 T:43
+N:17 E:43=U:17 T:43
+Vacant=Kosong
+安定度:94=Stabilitas: 94
+Fire Jade=Giok Api
+Jade Dragon Frost=Embun Beku Naga Giok
+Scarlet Fruit=Buah Merah
+Millennium Stalactite=Stalaktit Milenium
+Duskflower Dew=Embun Bunga Senja
+Sandbury Bone=Tulang Sandbury
+Wood Qi=Qi Kayu
+Earth Qi=Qi Tanah
+Wind Qi=Qi Angin
+Lightning Qi=Qi Petir
+Water Qi=Qi Air
+<color\=#FF0000>Water Qi</color>=<color\=#FF0000>Qi Air</color>
+Fire Qi=Qi Api
+You see an expanse of ice. As you approach you feel the temperature plummet, although it doesn't really bother you right now.=Anda melihat hamparan es luas. Saat mendekat, suhu udara turun drastis, meski hawa dingin itu tidak terlalu mengganggu Anda.
+Curious about this patch of ice which seems so out of place in this environment, you proceed forward. There are many dead animals along the road, including a few decent sized monsters.=Penasaran dengan hamparan es yang terasa janggal di lingkungan ini, Anda melangkah maju. Banyak bangkai hewan tergeletak di sepanjang jalan, termasuk beberapa monster berukuran cukup besar.
+On closer inspection, you see they are all covered in frost and must have frozen to death.=Setelah diamati lebih dekat, tubuh mereka seluruhnya tertutup lapisan es dan mati membeku.
+You continue forward until you come to a tree where there is a beautiful white-haired girl, weeping into her hands. Beside her a several dead birds, also frozen solid.=Anda terus berjalan hingga tiba di bawah sebatang pohon. Di sana tampak seorang gadis cantik berambut putih menangis menutupi wajahnya, dikelilingi beberapa burung yang mati membeku.
+You go over to inquire after her. She tearfully replies: "Everywhere I go turns to ice. Even these little birdies turned to ice... (Sobbing)..."=Anda menghampiri dan menanyakan keadaannya. Sambil terisak ia menjawab: "Ke mana pun aku melangkah, semuanya berubah menjadi es. Bahkan burung-burung kecil ini pun ikut membeku... (Terisak)..."
+You can't help feeling very sorry for the girl and offer to help solve her problem. She looks at you with her big eyes and says "Would you really help me?" You advise her...=Anda merasa sangat iba dan menawarkan bantuan untuk mengatasi masalahnya. Ia menatap Anda dengan mata berkaca-kaca dan bertanya, "Benarkah kakak mau menolongku?" Anda pun menyarankannya...
+Young lass, why not just return to the Northern Arctics?=Nona muda, mengapa tidak kembali saja ke Kutub Utara?
+Fire inter-regulates and overcomes water. Cultivate with a fire manual.=Api saling menyeimbangkan dan menaklukkan air. Berlatihlah dengan kitab jurus elemen Api.
+
+// =========================================================================
+// --- 2. MENU UTAMA, PEMBUATAN KARAKTER, UI & DIFFICULTY ---
+// =========================================================================
+New Game=Permainan Baru
+Start Game=Mulai Permainan
+Load Game=Muat Simpanan
+Continue=Lanjutkan
+Back=Kembali
+Close=Tutup
+Apply=Terapkan
+Reset=Atur Ulang
+Confirm=Konfirmasi
+Yes=Ya
+No=Tidak
+Search=Cari
+Filter=Filter
+Sort=Urutkan
+All=Semua
+Next=Berikutnya
+Previous=Sebelumnya
+Skip=Lewati
+Save=Simpan
+Delete=Hapus
+Edit=Ubah
+Details=Detail
+Info=Informasi
+Description=Deskripsi
+Status=Status
+Attributes=Atribut
+Stats=Statistik
+Create Character=Buat Karakter
+Appearance=Penampilan
+Random=Acak
+Randomize=Acak
+Name=Nama
+Surname=Marga
+First Name=Nama Depan
+Female=Wanita
+Destiny=Takdir
+Innate Destiny=Takdir Bawaan
+Select Destiny=Pilih Takdir
+Lock=Kunci
+Unlock=Buka Kunci
+Artifact=Artefak
+Sacred Artifact=Artefak Suci
+Demon Refining Pot=Guci Pemurnian Siluman
+Eye of Providence=Mata Takdir (Haotian)
+Pisces Pendant=Liontin Ikan Kembar
+Mythical Gourd=Labu Mitos
+Normal=Normal
+Hard=Sulit
+Very Hard=Sangat Sulit
+Nightmare=Neraka (Nightmare)
+Chaos=Chaos
+Qi: Normal=Qi: Normal
+Herb: Normal=Herbal: Normal
+Ore: Normal=Mineral: Normal
+Price: Normal=Harga: Normal
+Monster Quantity: Normal=Jumlah Monster: Normal
+Monster Damage: Normal=Serangan Monster: Normal
+Monster Vitality: Normal=Vitalitas Monster: Normal
+Qi: High=Qi: Tinggi
+Herb: High=Herbal: Tinggi
+Ore: High=Mineral: Tinggi
+Price: Low=Harga: Rendah
+Monster Quantity: Low=Jumlah Monster: Rendah
+Monster Damage: Low=Serangan Monster: Rendah
+Monster Vitality: Low=Vitalitas Monster: Rendah
+
+// =========================================================================
+// --- 3. 10 ALAM KULTIVASI LENGKAP (ENGLISH & MANDARIN) ---
+// =========================================================================
+Mortal=Manusia Fana
+Qi Refining=Pemurnian Qi
+Qi Refining (I)=Pemurnian Qi (I)
+Foundation=Pembangunan Fondasi
+Foundation (II)=Pembangunan Fondasi (II)
+Qi Condensation=Kristalisasi
+Qi Condensation (III)=Kristalisasi (III)
+Golden Core=Inti Emas
+Golden Core (IV)=Inti Emas (IV)
+Origin Spirit=Pembentukan Roh
+Origin Spirit (V)=Pembentukan Roh (V)
+Nascent Soul=Jiwa Baru Lahir
+Nascent Soul (VI)=Jiwa Baru Lahir (VI)
+Soul Formation=Transformasi Dewa
+Soul Formation (VII)=Transformasi Dewa (VII)
+Enlightenment=Pencerahan Dao
+Enlightenment (VIII)=Pencerahan Dao (VIII)
+Reborn=Kenaikan
+Reborn (IX)=Kenaikan (IX)
+Transcendent=Keabadian
+Transcendent (X)=Keabadian (X)
+Early=Awal
+Middle=Menengah
+Late=Akhir
+Bottleneck=Batas Terobosan
+Breakthrough=Terobosan
+Heavenly Foundation=Fondasi Dao Surgawi
+Earthly Foundation=Fondasi Dao Bumi
+Mortal Foundation=Fondasi Dao Fana
+Heavenly Golden Core=Inti Emas Dao Surgawi
+Earthly Golden Core=Inti Emas Dao Bumi
+Mortal Golden Core=Inti Emas Dao Fana
+Heavenly Nascent Soul=Jiwa Baru Lahir Dao Surgawi
+Earthly Nascent Soul=Jiwa Baru Lahir Dao Bumi
+Mortal Nascent Soul=Jiwa Baru Lahir Dao Fana
+Grade I=Tingkat I
+Grade II=Tingkat II
+Grade III=Tingkat III
+Grade IV=Tingkat IV
+Grade V=Tingkat V
+Grade VI=Tingkat VI
+Grade VII=Tingkat VII
+Grade VIII=Tingkat VIII
+Grade IX=Tingkat IX
+Grade X=Tingkat X
+Grade XI=Tingkat XI
+Grade XII=Tingkat XII
+境界=Alam Kultivasi
+凡人=Manusia Fana
+炼气期=Tahap Pemurnian Qi
+筑基期=Tahap Pembangunan Fondasi
+结晶期=Tahap Kristalisasi
+金丹期=Tahap Inti Emas
+具灵期=Tahap Pembentukan Roh
+元婴期=Tahap Jiwa Baru Lahir
+化神期=Tahap Transformasi Dewa
+悟道期=Tahap Pencerahan Dao
+羽化期=Tahap Kenaikan
+登仙期=Tahap Keabadian
+初期=Awal
+中期=Menengah
+后期=Akhir
+突破=Terobosan
+逆天改命=Takdir Terobosan
+天道筑基=Fondasi Dao Surgawi
+地道筑基=Fondasi Dao Bumi
+人道筑基=Fondasi Dao Fana
+一品金丹=Inti Emas Tingkat I
+二品金丹=Inti Emas Tingkat II
+三品金丹=Inti Emas Tingkat III
+天道元婴=Jiwa Baru Lahir Dao Surgawi
+地道元婴=Jiwa Baru Lahir Dao Bumi
+
+// =========================================================================
+// --- 4. BAHAN TEROBOSAN, PIL ELIXIR, & HARTA LANGIT BUMI (SEMUA ALAM) ---
+// =========================================================================
+G1 Foundation Elixir (Earth)=Pil Fondasi Bumi Tingkat 1 (G1)
+G2 Foundation Elixir (Earth)=Pil Fondasi Bumi Tingkat 2 (G2)
+G3 Foundation Elixir (Earth)=Pil Fondasi Bumi Tingkat 3 (G3)
+G1 Foundation Elixir (Heaven)=Pil Fondasi Surgawi Tingkat 1 (G1)
+G2 Foundation Elixir (Heaven)=Pil Fondasi Surgawi Tingkat 2 (G2)
+G3 Foundation Elixir (Heaven)=Pil Fondasi Surgawi Tingkat 3 (G3)
+Qi Condensation Elixir=Pil Kristalisasi
+G1 Qi Condensation Elixir=Pil Kristalisasi Tingkat 1 (G1)
+G2 Qi Condensation Elixir=Pil Kristalisasi Tingkat 2 (G2)
+G3 Qi Condensation Elixir=Pil Kristalisasi Tingkat 3 (G3)
+Golden Core Elixir=Pil Inti Emas
+G1 Golden Core Elixir (Heaven)=Pil Inti Emas Surgawi Tingkat 1 (G1)
+G1 Golden Core Elixir (Earth)=Pil Inti Emas Bumi Tingkat 1 (G1)
+G1 Golden Core Elixir (Mortal)=Pil Inti Emas Fana Tingkat 1 (G1)
+Origin Spirit Elixir=Pil Pembentukan Roh
+G1 Origin Spirit Elixir=Pil Pembentukan Roh Tingkat 1 (G1)
+Nascent Soul Elixir=Pil Jiwa Baru Lahir
+G1 Nascent Soul Elixir (Heaven)=Pil Jiwa Baru Lahir Surgawi Tingkat 1 (G1)
+G1 Nascent Soul Elixir (Earth)=Pil Jiwa Baru Lahir Bumi Tingkat 1 (G1)
+G1 Nascent Soul Elixir (Mortal)=Pil Jiwa Baru Lahir Fana Tingkat 1 (G1)
+Soul Formation Elixir=Pil Transformasi Dewa
+Enlightenment Elixir=Pil Pencerahan Dao
+Reborn Elixir=Pil Kenaikan
+Transcendent Elixir=Pil Keabadian
+Vitality Pill=Pil Pemulih Vitalitas
+Energy Pill=Pil Pemulih Energi Roh
+Focus Pill=Pil Pemulih Fokus
+Health Pill=Pil Pemulih Kesehatan
+Mood Pill=Pil Penenang Hati
+Stamina Pill=Pil Pemulih Stamina
+Lifespan Pill=Pil Penambah Usia
+EXP Pill=Pil Peningkat Kultivasi
+Breath of Soul Formation=Napas Transformasi Dewa
+Divine Soul=Jiwa Ilahi
+Dragon Soul=Jiwa Naga
+Tiger Soul=Jiwa Macan Putih
+Phoenix Soul=Jiwa Burung Phoenix
+Tortoise Soul=Jiwa Kura-Kura Hitam
+Qilin Soul=Jiwa Qilin
+Tao Soul=Jiwa Tao
+Purity=Kemurnian
+Heavenly Dao Qi=Qi Dao Surgawi
+Earthly Dao Qi=Qi Dao Bumi
+Mortal Dao Qi=Qi Dao Fana
+Resplendent Pearl=Mutiara Gemilang
+Bloodthirst Crystal=Kristal Haus Darah
+Blazing Jade=Giok Membara
+Thunderous Stone=Batu Petir
+Spiritwood Essence=Intisari Kayu Roh
+Blackwater Crystal=Kristal Air Hitam
+Sun Essence=Intisari Matahari
+Moon Essence=Intisari Bulan
+Star Essence=Intisari Bintang
+Crimson Lotus=Teratai Merah
+Nine-Colored Cloud=Awan Sembilan Warna
+Chaos Qi=Qi Kekacauan (Chaos)
+Void Essence=Intisari Kehampaan
+Last Breath=Sisa Napas Terakhir
+Revival Elixir=Pil Kebangkitan
+
+// =========================================================================
+// --- 5. ATRIBUT KARAKTER, JURUS, KUALITAS KITAB & AFIKS PERTEMPURAN ---
+// =========================================================================
+Vitality=Vitalitas (HP)
+Energy=Energi Roh (MP)
+Focus=Fokus
+Health=Kesehatan
+Stamina=Stamina
+Mood=Suasana Hati
+Lifespan=Batas Usia
+Age=Usia
+Attack=Serangan
+Defense=Pertahanan
+Crit Damage=Kerusakan Kritikal
+Move Speed=Kecepatan Gerak
+Spirit Stones=Batu Roh
+Contribution=Kontribusi Sekte
+Fame=Ketenaran
+Realm=Alam Kultivasi
+Martial Arts=Seni Bela Diri
+Spiritual Arts=Seni Roh
+Basic Attack=Serangan Dasar
+Left Click=Klik Kiri
+Right Click=Klik Kanan
+Special Skills=Jurus Spesial
+Motion Skills=Jurus Gerak
+Ultimate Skills=Jurus Ilahi
+Mind Skills=Teknik Batin
+Manuals=Kitab Jurus
+Secret Manual=Kitab Rahasia
+Cultivate=Berlatih
+Comprehend=Pencerahan Jurus
+Upgrade=Tingkatkan
+Equip=Pasang
+Unequip=Lepas
+Forget=Lupakan
+Cooldown=Waktu Jeda
+Cost=Konsumsi
+Range=Jarak Serang
+Duration=Durasi
+Damage=Kerusakan
+Target=Target
+Effect=Efek
+Condition=Syarat Aktivasi
+Common=Biasa (Putih)
+Uncommon=Hijau
+Rare=Langka (Biru)
+Epic=Epik (Ungu)
+Legendary=Legendaris (Oranye)
+Mythic=Mitos (Merah)
+Bleed=Pendarahan
+Burn=Terbakar
+Freeze=Beku
+Chill=Kedinginan
+Stun=Pingsan (Stun)
+Root=Terikat
+Silence=Bungkam
+Blind=Buta
+Poison=Racun
+Slow=Melambat
+Knockback=Terpental
+Shield=Perisai
+Lifesteal=Serap Darah
+Life Drain=Hisap Vitalitas
+Summon=Panggil Makhluk
+Sword Shadow=Bayangan Pedang
+Sword Energy=Energi Pedang
+Blade Aura=Aura Golok
+Tornado=Angin Topan
+Lightning Bolt=Sambaran Petir
+Fireball=Bola Api
+Earth Spike=Duri Tanah
+Water Wave=Gelombang Air
+
+// =========================================================================
+// --- 6. TAS, PENYIMPANAN, KOTA, SEKTE & DUNIA GAME ---
+// =========================================================================
+Inventory=Tas
+Storage=Penyimpanan
+Tree Vault=Penyimpanan Pohon Jianmu
+Items=Item
+Pills=Pil
+Elixirs=Pil / Ramuan
+Artifacts=Artefak
+Artifact Spirit=Roh Artefak
+Mount=Tunggang
+Ring=Cincin
+Outfit=Kostum
+Materials=Bahan
+Herbs=Herbal
+Ores=Mineral
+Charms=Jimat
+Talismans=Jimat
+Recipes=Resep
+Furnaces=Tungku
+Use=Gunakan
+Discard=Buang
+Sell=Jual
+Buy=Beli
+Craft=Racik / Tempa
+Refine=Murnikan
+Fuse=Gabungkan
+Repair=Perbaiki
+Equipped=Terpasang
+Town=Kota
+City=Kota Besar
+Village=Desa
+Sect=Sekte
+Branch=Cabang
+Headquarters=Markas Utama
+Tavern=Kedai Arak
+Market=Pasar
+Auction House=Balai Lelang
+Langya Pavilion=Paviliun Langya
+Jianmu=Pohon Jianmu
+Teleportation Array=Formasi Teleportasi
+Inn=Penginapan
+Mission Hall=Aula Misi
+Scripture Pavilion=Paviliun Kitab Suci
+Treasure Pavilion=Paviliun Harta
+Medical Hall=Balai Pengobatan
+Main Hall=Aula Utama
+Spirit Pavilion=Paviliun Roh
+Recruitment Hall=Aula Perekrutan
+Forge Hall=Aula Penempaan
+Alchemy Hall=Aula Alkimia
+Arena=Arena Duel
+Sect Tournament=Turnamen Sekte
+Sect War=Perang Sekte
+Resource Battle=Perebutan Sumber Daya
+Sect Leader=Ketua Sekte
+Grand Elder=Tetua Agung
+Elder=Tetua
+True Disciple=Murid Inti
+Inner Disciple=Murid Dalam
+Outer Disciple=Murid Luar
+Probationary Disciple=Murid Magang
+Yong Ning=Wilayah Yongning
+Lei Ze=Rawa Petir (Leize)
+Hua Feng=Wilayah Huafeng
+Shiwan Dashan=Seratus Ribu Gunung
+Yun Mo=Wilayah Yunmo
+Everfrost=Dataran Es Abadi
+Mu Xian=Wilayah Muxian
+Chi You=Wilayah Chiyou
+Monster Den=Sarang Monster
+Mystic Realm=Alam Mistis
+Secret Realm=Alam Rahasia
+Spirit Vein=Urat Nadi Roh
+Spirit Mine=Tambang Batu Roh
+Herb Garden=Kebun Herbal
+Ruins=Reruntuhan Kuno
+Altar=Altar
+
+// =========================================================================
+// --- 7. KEPRIBADIAN NPC, INTERAKSI SOSIAL & WAKTU DUNIA ---
+// =========================================================================
+Selfless=Tanpa Pamrih
+Benevolent=Baik Hati
+Righteous=Lurus / Adil
+Honest=Jujur
+Carefree=Bebas Lepas
+Neutral=Netral
+Utilitarian=Pragmatis
+Selfish=Egois
+Evil=Jahat
+Wicked=Kejam
+Loyal=Setia
+Devoted=Penuh Bakti
+Vengeful=Pendendam
+Farsighted=Berpandangan Jauh
+Smart=Cerdas
+Power-hungry=Haus Kekuasaan
+Family-oriented=Sayang Keluarga
+Talk=Bicara
+Chat=Mengobrol
+Gossip=Gosip
+Spar=Latih Tanding
+Duel=Duel Maut
+Kill=Bunuh
+Rob=Rampok
+Debate=Diskusi Dao
+Dual Cultivate=Kultivasi Ganda
+Gift=Beri Hadiah
+Ask=Minta Barang
+Steal=Curi
+Inspect=Periksa Tas
+Invite=Ajak Bergabung
+Follow=Ikuti
+Propose=Lamar
+Marry=Menikah
+Divorce=Cerai
+Sworn Sibling=Saudara Angkat
+Dao Partner=Pasangan Dao
+Spouse=Suami / Istri
+Husband=Suami
+Wife=Istri
+Master=Guru
+Apprentice=Murid
+Disciple=Murid
+Parents=Orang Tua
+Father=Ayah
+Mother=Ibu
+Children=Anak
+Friend=Sahabat
+Enemy=Musuh
+Nemesis=Musuh Bebuyutan
+Affinity=Kedekatan
+Hatred=Kebencian
+Skip Month=Lewati Bulan Ini
+End Turn=Akhiri Bulan
+Monthly Report=Laporan Bulanan
+Spirits & Souls=Roh & Jiwa
+World=Dunia
+Cultivation=Kultivasi
+Skills=Jurus
+Spawn item=Munculkan Item
+Search item=Cari Item
+Quantity=Jumlah
+Give=Berikan
+100% drop rate=Peluang Drop 100%
+No map fog=Buka Kabut Peta
+Free teleport=Teleportasi Gratis
+Fast travel=Perjalanan Cepat
+Instant craft=Racik / Tempa Instan
+Instant learn=Pelajari Jurus Instan
+Max skill level=Level Jurus Maksimal
+Infinite lifespan=Usia Abadi
+
+// =========================================================================
+// --- 8. POLA REGEX OTOMATIS UNTUK ANGKA, JARAK & TANGGAL DINAMIS ---
+// =========================================================================
+r:"^Year (\d+) Month (\d+)$"=Tahun $1 Bulan $2
+r:"^Year (\d+) Month (\d+) Day (\d+)$"=Tahun $1 Bulan $2 Hari $3
+r:"^Page (\d+)/(\d+)$"=Halaman $1/$2
+r:"^Unlocked: (\d+)/(\d+)$"=Terbuka: $1/$2
+r:"^Bagua Jade Points:(\d+)$"=Poin Giok Bagua: $1
+r:"^(\d+) mods in total$"=Total $1 mod
+r:"^Own (\d+) Contribution\.$"=Miliki $1 Kontribusi Sekte.
+r:"^Own (\d+) Spirit Stones\.$"=Miliki $1 Batu Roh.
+r:"^Find (.+) \((\d+) Space\(s\)\)$"=Temukan $1 ($2 Petak)
+r:"^N:(\d+) E:(\d+)$"=U:$1 T:$2
+r:"^Qi Refining \(I\)\s+Early$"=Pemurnian Qi (I) Awal
+r:"^Qi Refining \(I\)\s+Middle$"=Pemurnian Qi (I) Menengah
+r:"^Qi Refining \(I\)\s+Late$"=Pemurnian Qi (I) Akhir
+r:"^Foundation \(II\)\s+Early$"=Pembangunan Fondasi (II) Awal
+r:"^Foundation \(II\)\s+Middle$"=Pembangunan Fondasi (II) Menengah
+r:"^Foundation \(II\)\s+Late$"=Pembangunan Fondasi (II) Akhir
+r:"^Qi Condensation \(III\)\s+Early$"=Kristalisasi (III) Awal
+r:"^Qi Condensation \(III\)\s+Middle$"=Kristalisasi (III) Menengah
+r:"^Qi Condensation \(III\)\s+Late$"=Kristalisasi (III) Akhir
+r:"^Golden Core \(IV\)\s+Early$"=Inti Emas (IV) Awal
+r:"^Golden Core \(IV\)\s+Middle$"=Inti Emas (IV) Menengah
+r:"^Golden Core \(IV\)\s+Late$"=Inti Emas (IV) Akhir
+r:"^Origin Spirit \(V\)\s+Early$"=Pembentukan Roh (V) Awal
+r:"^Origin Spirit \(V\)\s+Middle$"=Pembentukan Roh (V) Menengah
+r:"^Origin Spirit \(V\)\s+Late$"=Pembentukan Roh (V) Akhir
+r:"^Nascent Soul \(VI\)\s+Early$"=Jiwa Baru Lahir (VI) Awal
+r:"^Nascent Soul \(VI\)\s+Middle$"=Jiwa Baru Lahir (VI) Menengah
+r:"^Nascent Soul \(VI\)\s+Late$"=Jiwa Baru Lahir (VI) Akhir
+r:"^Soul Formation \(VII\)\s+Early$"=Transformasi Dewa (VII) Awal
+r:"^Soul Formation \(VII\)\s+Middle$"=Transformasi Dewa (VII) Menengah
+r:"^Soul Formation \(VII\)\s+Late$"=Transformasi Dewa (VII) Akhir
+r:"^Enlightenment \(VIII\)\s+Early$"=Pencerahan Dao (VIII) Awal
+r:"^Enlightenment \(VIII\)\s+Middle$"=Pencerahan Dao (VIII) Menengah
+r:"^Enlightenment \(VIII\)\s+Late$"=Pencerahan Dao (VIII) Akhir
+r:"^Reborn \(IX\)\s+Early$"=Kenaikan (IX) Awal
+r:"^Reborn \(IX\)\s+Middle$"=Kenaikan (IX) Menengah
+r:"^Reborn \(IX\)\s+Late$"=Kenaikan (IX) Akhir
+r:"^Transcendent \(X\)\s+Early$"=Keabadian (X) Awal
+r:"^Transcendent \(X\)\s+Middle$"=Keabadian (X) Menengah
+r:"^Transcendent \(X\)\s+Late$"=Keabadian (X) Akhir赠送道具给他人，可以提升他人对你的亲密度。=Memberikan alat peraga kepada orang lain dapat meningkatkan keintiman mereka dengan Anda.
+Discard all items=Buang semua item
+<color\=#9db0cc>Affinity runs from -300 to 300, 60 to a heart. Asking an NPC for a bond needs their affinity at 120 or more. NPCs propose bonds to you when your affinity to them is high (about 75 for marriage, 100 sworn sibling, 120 Partner, 200 master or disciple). Friends need 60 both ways. Saved with the game.</color>=<color\=#9db0cc>Afinitas berkisar dari -300 hingga 300, 60 ke hati.\nMeminta ikatan kepada NPC membutuhkan afinitas mereka sebesar 120 atau lebih.\nNPC mengusulkan obligasi kepada Anda ketika afinitas Anda terhadap mereka tinggi (sekitar 75 untuk pernikahan, 100 saudara angkat, 120 Mitra, 200 guru atau murid).\nTeman membutuhkan 60 dua arah.\nDisimpan dengan permainan.</color>
+You'll receive EXP by cultivating in a space on the world map. The higher the Qi value of the space, the more EXP you'll receive.=Anda akan menerima EXP dengan mengolah ruang di peta dunia.\nSemakin tinggi nilai Qi ruangan, semakin banyak EXP yang akan Anda terima.
+<size\=12><color\=#9db0cc>Deletes every item in your bag except manuals and the kinds kept above. Cannot be undone.</color></size>=<size\=12><color\=#9db0cc>Menghapus setiap item di tas Anda kecuali manual dan jenis yang disimpan di atas.\nTidak dapat dibatalkan.</color></size>
+Remove every copy of one item=Hapus setiap salinan dari satu item
+Remove every copy=Hapus setiap salinan
+Element=Elemen
+All elements=Semua elemen
+Quality=Kualitas
+G6=G6
+G1 (red)=G1 (merah)
+Add book=Tambahkan buku
+<color\=#9db0cc>Pick a skill, then Add book. A skill made for fewer realms is made at the nearest realm it has. Special Skills list every variant of each element.</color>=<color\=#9db0cc>Pilih keahlian, lalu Tambahkan buku.\nKeterampilan yang dibuat untuk alam yang lebih sedikit dibuat di alam terdekat yang dimilikinya.\nKeahlian Khusus mencantumkan setiap varian dari setiap elemen.</color>
+Add all as books=Tambahkan semua sebagai buku
+<size\=12><color\=#9db0cc>One book of every skill in the chosen category and element that exists at the chosen realm. Needs bag space.</color></size>=<size\=12><color\=#9db0cc>Satu buku dari setiap keterampilan dalam kategori dan elemen terpilih yang ada di ranah terpilih.\nMembutuhkan ruang tas.</color></size>
+<b><color\=#8fb4e0>Make one of yours red</color></b>=<b><color\=#8fb4e0>Jadikan salah satu milikmu berwarna merah</color></b>
+Also max every affix level=Juga maksimalkan setiap level imbuhan
+Make it red=Jadikan merah
+<color\=#9db0cc>Rerolls the skill's affixes as a G1 (red) one of the same skill and realm. The old affixes are lost (they are written to the log). Needs one free bag space for a moment.</color>=<color\=#9db0cc>Memutar ulang imbuhan keterampilan sebagai G1 (merah) dari keterampilan dan ranah yang sama.\nAfiks lama hilang (ditulis di log).\nMembutuhkan satu ruang tas kosong sebentar.</color>
+Learn=Mempelajari
+<b><color\=#8fb4e0>Learn</color></b>=<b><color\=#8fb4e0>Mempelajari</color></b>
+<color\=#9db0cc>Learns the skill picked under Skill books at the chosen realm and quality, with no book, study time or aptitude check.</color>=<color\=#9db0cc>Mempelajari keterampilan yang dipilih berdasarkan buku Keterampilan pada bidang dan kualitas yang dipilih, tanpa buku, waktu belajar, atau pemeriksaan bakat.</color>
+Equip it=Lengkapi itu
+Full mastery=Penguasaan penuh
+Learn it=Pelajari itu
+<color\=#9db0cc>Equipping replaces the skill in that slot; a Mind Skill takes the slot of the same kind, or a free one, and may go over the Mind Skill point limit. Only you.</color>=<color\=#9db0cc>Perlengkapan menggantikan keterampilan di slot itu;\nKeterampilan Pikiran mengambil slot yang sama, atau gratis, dan mungkin melebihi batas poin Keterampilan Pikiran.\nHanya kamu.</color>
+Learn all of this category=Pelajari semua kategori ini
+<size\=12><color\=#9db0cc>Learns every skill in the chosen category and element at the chosen realm, skipping ones you know. Cannot be undone.</color></size>=<size\=12><color\=#9db0cc>Pelajari setiap keterampilan dalam kategori dan elemen yang dipilih di bidang yang dipilih, lewati keterampilan yang Anda tahu.\nTidak dapat dibatalkan.</color></size>
+<b><color\=#8fb4e0>Mastery</color></b>=<b><color\=#8fb4e0>Penguasaan</color></b>
+Max mastery of every known skill=Penguasaan maksimal dari setiap keterampilan yang diketahui
+<size\=12><color\=#9db0cc>Puts every skill you have learned at the top mastery level. Saved with the game.</color></size>=<size\=12><color\=#9db0cc>Tempatkan setiap keterampilan yang telah Anda pelajari pada tingkat penguasaan teratas.\nDisimpan dengan permainan.</color></size>
+Mind skills=Keterampilan pikiran
+<b><color\=#8fb4e0>Mind skills</color></b>=<b><color\=#8fb4e0>Keterampilan pikiran</color></b>
+<b><color\=#8fb4e0>Set a Mind Skill's tradition</color></b>=<b><color\=#8fb4e0>Tetapkan tradisi Keterampilan Pikiran</color></b>
+Tradition=Tradisi
+Pick a Mind Skill first=Pilih Keterampilan Pikiran terlebih dahulu
+<color\=#9db0cc>Only traditions that include the picked Mind Skill are offered; None removes it. Saved with the game. Re-equip the skill if its Tradition Effect does not show.</color>=<color\=#9db0cc>Hanya tradisi yang mencakup Keterampilan Pikiran pilihan yang ditawarkan;\nTidak ada yang menghapusnya.\nDisimpan dengan permainan.\nLengkapi kembali keterampilan jika Efek Tradisi tidak muncul.</color>
+<b><color\=#8fb4e0>Add a tradition's Mind Skills</color></b>=<b><color\=#8fb4e0>Tambahkan Keterampilan Pikiran tradisi</color></b>
+Add its Mind Skills as books=Tambahkan Keterampilan Pikirannya sebagai buku
+<color\=#9db0cc>One G1 (red) book at your realm for each Mind Skill in the tradition, each already carrying it. Some traditions list one Mind Skill per element, so this can be twelve books.</color>=<color\=#9db0cc>Satu buku G1 (merah) di wilayah Anda untuk setiap Keterampilan Pikiran dalam tradisi, masing-masing sudah membawanya.\nBeberapa tradisi mencantumkan satu Keterampilan Pikiran per elemen, jadi ini bisa menjadi dua belas buku.</color>
+Origin=Asal
+<b><color\=#8fb4e0>Heavenly Arts</color></b>=<b><color\=#8fb4e0>Seni Surgawi</color></b>
+<color\=#9db0cc>Heavenly Arts are equipped at Transcendent. Each art comes with its shrine immortal, as in the game. Arts cannot be removed again, so both buttons ask for a second click.</color>=<color\=#9db0cc>Seni Surgawi dilengkapi di Transenden.\nSetiap seni hadir dengan kuilnya yang abadi, seperti di dalam game.\nSeni tidak dapat dihapus lagi, jadi kedua tombol meminta klik kedua.</color>
+Give all of this immortal's arts=Berikan semua seni abadi ini
+Give this Heavenly Art=Berikan Seni Surgawi ini
+<b><color\=#8fb4e0>Origin and rules</color></b>=<b><color\=#8fb4e0>Asal dan aturan</color></b>
+<b><color\=#8fb4e0>Essence Heavenly Power</color></b>=<b><color\=#8fb4e0>Esensi Kekuatan Surgawi</color></b>
+Total points=Poin total
+<color\=#9db0cc>The points Heavenly Arts cost to equip. Cannot go below what your equipped arts use. Saved with the game.</color>=<color\=#9db0cc>Poin yang perlu dilengkapi dengan Seni Surgawi.\nTidak boleh melebihi apa yang digunakan perlengkapan senimu.\nDisimpan dengan permainan.</color>
+<b><color\=#8fb4e0>Field</color></b>=<b><color\=#8fb4e0>Bidang</color></b>
+Slot 1=celah 1
+Slot 2=celah 2
+Slot 3=celah 3
+<color\=#9db0cc>Each Field slot has a main element and two secondary ones. Only slots you have already formed can be changed. Saved with the game; shows from the next battle.</color>=<color\=#9db0cc>Setiap slot Bidang memiliki satu elemen utama dan dua elemen sekunder.\nHanya slot yang sudah Anda bentuk yang dapat diubah.\nDisimpan dengan permainan;\nmenunjukkan dari pertempuran berikutnya.</color>
+Jiaolong=J dan Aolong
+Keep Enhancing Progress=Terus Tingkatkan Kemajuan
+Training=Pelatihan
+Max every affix level=Maksimal setiap level imbuhan
+Apply affixes=Terapkan imbuhan
+Yours=Milikmu
+Whose skills=Keterampilan siapa
+<b><color\=#8fb4e0>Skill affixes</color></b>=<b><color\=#8fb4e0>Imbuhan keterampilan</color></b>
+Affixes=imbuhan
+<color\=#9db0cc>Switches your active Divine Soul. Resetting progress cannot be undone. Owning extra souls counts toward the game's own soul requirements. Saved with the game.</color>=<color\=#9db0cc>Mengalihkan Jiwa Ilahi Anda yang aktif.\nMenyetel ulang kemajuan tidak dapat dibatalkan.\nMemiliki jiwa ekstra diperhitungkan dalam persyaratan jiwa game itu sendiri.\nDisimpan dengan permainan.</color>
+Also add it to the souls you own=Tambahkan juga ke jiwa yang Anda miliki
+Set Divine Soul=Tetapkan Jiwa Ilahi
+Study manuals regardless of aptitude\n<size\=11><color\=#9db0cc>Manuals no longer need the weapon or element aptitude they ask for. Only you.</color></size>=Pelajari manual terlepas dari bakatnya\n<size\=11><color\=#9db0cc>Manual tidak lagi membutuhkan senjata atau elemen yang mereka minta.\nHanya kamu.</color></size>
+Study manuals above your realm\n<size\=11><color\=#9db0cc>Manuals no longer need your realm. The number of skill slots still limits you. Only you.</color></size>=Pelajari manual di atas wilayah Anda\n<size\=11><color\=#9db0cc>Manual tidak lagi membutuhkan wilayah Anda.\nJumlah slot keterampilan masih membatasi Anda.\nHanya kamu.</color></size>
+Learn manuals instantly\n<size\=11><color\=#9db0cc>Pressing Study learns the whole manual at once, with no mini-game. The Spirit Stone cost still applies. Only you.</color></size>=Pelajari manual secara instan\n<size\=11><color\=#9db0cc>Pressing Study mempelajari seluruh manual sekaligus, tanpa mini-game.\nBiaya Batu Roh masih berlaku.\nHanya kamu.</color></size>
+<b><color\=#8fb4e0>Comprehension</color></b>=<b><color\=#8fb4e0>Pemahaman</color></b>
+Perfect Comprehension\n<size\=11><color\=#9db0cc>Every Comprehend roll gives each new affix its top level (red). Affixes you keep are left alone. Only you.</color></size>=Pemahaman Sempurna\n<size\=11><color\=#9db0cc>Setiap gulungan Pemahaman memberikan setiap imbuhan baru tingkat atasnya (merah).\nImbuhan yang Anda simpan dibiarkan begitu saja.\nHanya kamu.</color></size>
+Skip the Comprehend reveal\n<size\=11><color\=#9db0cc>The new affixes appear at once after Comprehend, with no reveal animation. Display only.</color></size>=Lewati pengungkapan Pemahaman\n<size\=11><color\=#9db0cc>Afiks baru muncul sekaligus setelah Memahami, tanpa animasi pengungkapan.\nHanya tampilan.</color></size>
+Fast Cultivation on the map\n<size\=11><color\=#9db0cc>Cultivation on a map tile gives more EXP, by the multiplier below. The realm bottleneck still caps it. Only you.</color></size>=Budidaya Cepat di peta\n<size\=11><color\=#9db0cc>Budidaya pada petak peta memberikan lebih banyak EXP, dengan pengganda di bawah.\nKemacetan di dunia nyata masih membatasinya.\nHanya kamu.</color></size>
+Map Cultivation multiplier=Pengganda Budidaya Peta
+<color\=#9db0cc>2 to 100.</color>=<color\=#9db0cc>2 hingga 100.</color>
+Fill realm EXP in one Cultivation\n<size\=11><color\=#9db0cc>One Cultivation on a map tile fills your EXP up to the realm bottleneck. No breakthrough is skipped. Only you.</color></size>=Isi EXP ranah dalam satu Budidaya\n<size\=11><color\=#9db0cc>Satu Budidaya di petak peta akan mengisi EXP Anda hingga batas wilayah.\nTidak ada terobosan yang dilewati.\nHanya kamu.</color></size>
+Fast technique training\n<size\=11><color\=#9db0cc>Training a skill gives more mastery per session, by the multiplier below. Takes effect from the next session. Only you.</color></size>=Pelatihan teknik cepat\n<size\=11><color\=#9db0cc>Melatih suatu keterampilan memberikan lebih banyak penguasaan per sesi, dengan pengganda di bawah.\nBerlaku mulai sesi berikutnya.\nHanya kamu.</color></size>
+Technique training multiplier=Pengganda pelatihan teknik
+Max mastery in one training\n<size\=11><color\=#9db0cc>One training session takes the skill as far as the game allows (top mastery). Only you.</color></size>=Penguasaan maksimal dalam satu pelatihan\n<size\=11><color\=#9db0cc>Satu sesi latihan membutuhkan keterampilan sejauh yang dimungkinkan oleh permainan (penguasaan tertinggi).\nHanya kamu.</color></size>
+EXP multiplier\n<size\=11><color\=#9db0cc>Multiplies all realm EXP you gain: Cultivate, fights, events, pills, sect aura. The realm bottleneck still caps it. Only you.</color></size>=Pengganda EXP\n<size\=11><color\=#9db0cc>Lipat gandakan semua EXP ranah yang Anda peroleh: Kembangkan, pertarungan, acara, pil, aura sekte.\nKemacetan di dunia nyata masih membatasinya.\nHanya kamu.</color></size>
+EXP multiplier amount=Jumlah pengganda EXP
+x2=Pakaian
+x16=x16
+Bonus EXP after each battle won\n<size\=11><color\=#9db0cc>When you leave a battle you won, you gain the amount below in EXP. The realm bottleneck still caps it.</color></size>=Bonus EXP setelah setiap pertempuran dimenangkan\n<size\=11><color\=#9db0cc>Ketika Anda meninggalkan pertempuran yang Anda menangkan, Anda mendapatkan jumlah EXP di bawah.\nKemacetan di dunia nyata masih membatasinya.</color></size>
+Bonus per battle (x 10,000 EXP)=Bonus per pertempuran (x 10.000 EXP)
+<color\=#9db0cc>1 \= 10,000 EXP. 1 to 1000.</color>=<color\=#9db0cc>1 \= 10.000 EXP.\n1 hingga 1000.</color>
+Taoist Mind=Pikiran Tao
+<b><color\=#8fb4e0>Taoist Mind</color></b>=<b><color\=#8fb4e0>Pikiran Tao</color></b>
+Fast Taoist Mind Dedication\n<size\=11><color\=#9db0cc>Every rise in your Taoist Mind Dedication is multiplied by the number below. Losses are unchanged. Only you.</color></size>=Dedikasi Pikiran Tao yang Cepat\n<size\=11><color\=#9db0cc>Setiap peningkatan Dedikasi Pikiran Tao Anda dikalikan dengan angka di bawah ini.\nKerugian tidak berubah.\nHanya kamu.</color></size>
+Dedication multiplier=Pengganda dedikasi
+<size\=12><color\=#9db0cc>Removes every negative destiny you have, innate and acquired. Last Breath, realm bottlenecks and Taoist Mind effects are kept. Cannot be undone.</color></size>=<size\=12><color\=#9db0cc>Menghapus setiap takdir negatif yang Anda miliki, bawaan dan diperoleh.\nNafas Terakhir, kemacetan alam, dan efek Pikiran Tao dipertahankan.\nTidak dapat dibatalkan.</color></size>
+Clear negative destinies=Hapus takdir negatif
+<color\=#9db0cc>Only you. Saved with the game. A new destiny's one-off effects run as if you were born with it; removing one does not take back what it already gave.</color>=<color\=#9db0cc>Hanya kamu.\nDisimpan dengan permainan.\nEfek satu kali dari sebuah takdir baru berjalan seolah-olah Anda dilahirkan dengan takdir tersebut;\nmenghilangkan seseorang tidak akan mengambil kembali apa yang telah diberikannya.</color>
+<b><color\=#8fb4e0>Your innate destinies</color></b>=<b><color\=#8fb4e0>Takdir bawaan Anda</color></b>
+Innate=bawaan
+Keep Seed Condensation full\n<size\=11><color\=#9db0cc>Refills your Seed Condensation every month, including after teaching. Needs a Taoist Mind.</color></size>=Jaga Kondensasi Benih tetap penuh\n<size\=11><color\=#9db0cc>Isi ulang Kondensasi Benih Anda setiap bulan, termasuk setelah mengajar.\nMembutuhkan Pikiran Tao.</color></size>
+<size\=12><color\=#9db0cc>Sets your Seed Condensation to full, so your Wayborne Seed can be taught now. Needs a Taoist Mind. Saved with the game.</color></size>=<size\=12><color\=#9db0cc>Atur Kondensasi Benih Anda ke penuh, sehingga Benih Wayborne Anda dapat diajarkan sekarang.\nMembutuhkan Pikiran Tao.\nDisimpan dengan permainan.</color></size>
+Fill Seed Condensation=Isi Kondensasi Benih
+Never lose Dedication\n<size\=11><color\=#9db0cc>Sparring, insults and events no longer lower your Taoist Mind Dedication. A heart demon can still break it. Only you.</color></size>=Jangan pernah kehilangan Dedikasi\n<size\=11><color\=#9db0cc>Perdebatan, hinaan, dan peristiwa tidak lagi menurunkan Dedikasi Pikiran Tao Anda.\nSetan hati masih bisa menghancurkannya.\nHanya kamu.</color></size>
+<b><color\=#8fb4e0>Timers</color></b>=<b><color\=#8fb4e0>pengatur waktu</color></b>
+Timed destinies never run out\n<size\=11><color\=#9db0cc>Your good timed destinies stop counting down while this is on; negative ones still expire. Only you.</color></size>=Nasib yang waktunya tidak pernah habis\n<size\=11><color\=#9db0cc>Nasib tepat waktu Anda berhenti menghitung mundur saat ini aktif;\nyang negatif masih kedaluwarsa.\nHanya kamu.</color></size>
+Acquired=Diperoleh
+<color\=#9db0cc>Adds the destiny to you as an acquired one (Destiny (Nurture)). Having it already extends its time instead. Only you. Saved with the game.</color>=<color\=#9db0cc>Menambahkan takdir kepada Anda sebagai takdir yang diperoleh (Takdir (Nurture)).\nMemilikinya sudah memperpanjang waktunya.\nHanya kamu.\nDisimpan dengan permainan.</color>
+<color\=#9db0cc>Removes the destiny for good. Removing a Rewrite Destiny also clears it from that realm's record. Cannot be undone.</color>=<color\=#9db0cc>Menghapus takdir untuk selamanya.\nMenghapus Takdir Penulisan Ulang juga menghapusnya dari catatan wilayah tersebut.\nTidak dapat dibatalkan.</color>
+Change Taoist Mind=Ubah Pikiran Tao
+<color\=#9db0cc>Switches your Taoist Mind the way the game grants one: its effects, heart skills and later Rewrite Destiny choices follow it. Gives you one if you have none. Only you. Saved with the game.</color>=<color\=#9db0cc>Ubah Pikiran Tao Anda seperti yang diberikan permainan: efeknya, keterampilan jantung, dan pilihan Tulis Ulang Takdir selanjutnya mengikutinya.\nMemberi Anda satu jika Anda tidak memilikinya.\nHanya kamu.\nDisimpan dengan permainan.</color>
+<color\=#9db0cc>Swaps the Rewrite Destiny you took at that realm for another, through the game's own add and remove, so it stays after a reload. Only you. Saved with the game.</color>=<color\=#9db0cc>Menukar Takdir Penulisan Ulang yang Anda ambil di ranah itu dengan yang lain, melalui penambahan dan penghapusan game itu sendiri, sehingga tetap ada setelah dimuat ulang.\nHanya kamu.\nDisimpan dengan permainan.</color>
+<b><color\=#8fb4e0>Rewrite Destiny values</color></b>=<b><color\=#8fb4e0>Tulis ulang nilai Takdir</color></b>
+Use my Rewrite Destiny values\n<size\=11><color\=#9db0cc>Applies the percentages set below. These numbers are shared: an NPC with the same Rewrite Destiny gets them too. Off puts the game's numbers back.</color></size>=Gunakan nilai Rewrite Destiny saya\n<size\=11><color\=#9db0cc>Menerapkan persentase yang ditetapkan di bawah ini.\nAngka-angka ini dibagikan: NPC dengan Rewrite Destiny yang sama juga mendapatkannya.\nOff mengembalikan nomor permainan.</color></size>
+% of normal=% dari biasanya
+All normal=Semuanya normal
+<color\=#9db0cc>Each value scales with your realm; the percentage keeps that scaling. For cooldowns a lower number is faster. Takes effect from the next battle.</color>=<color\=#9db0cc>Setiap nilai berskala sesuai dengan wilayah Anda;\npersentasenya mempertahankan skala itu.\nUntuk cooldown, angka yang lebih rendah akan lebih cepat.\nBerlaku mulai pertempuran berikutnya.</color>
+Planner=Perencana
+<b><color\=#8fb4e0>Rewrite Destiny plan</color></b>=<b><color\=#8fb4e0>Tulis ulang rencana Takdir</color></b>
+Plan this one=Rencanakan yang ini
+Clear this realm=Kosongkan wilayah ini
+Clear all plans=Hapus semua rencana
+<color\=#9db0cc>At the breakthrough into a planned realm, the planned destiny is the first card and is picked for you; another card can still be chosen. It is not offered if you already have it. The list holds the destinies the game allows at that realm. Kept in this save.</color>=<color\=#9db0cc>Saat terobosan ke dunia terencana, takdir yang direncanakan adalah kartu pertama dan dipilihkan untuk Anda;\nkartu lain masih dapat dipilih.\nItu tidak ditawarkan jika Anda sudah memilikinya.\nDaftar tersebut berisi takdir yang dimungkinkan oleh game di wilayah tersebut.\nDisimpan dalam simpanan ini.</color>
+<b><color\=#8fb4e0>Character creation</color></b>=<b><color\=#8fb4e0>Penciptaan karakter</color></b>
+Only red destinies in creation rolls\n<size\=11><color\=#9db0cc>On the character creation screen, every innate destiny the dice roll is a red one. You still pick 3.</color></size>=Hanya takdir merah dalam penciptaan yang bergulir\n<size\=11><color\=#9db0cc>Di layar pembuatan karakter, setiap takdir bawaan yang dilempar dadu berwarna merah.\nAnda masih memilih 3.</color></size>
+Start with every rolled destiny\n<size\=11><color\=#9db0cc>On the character creation screen, the new character keeps all the destinies of the last roll (up to 9), not just the 3 picked. The screen still shows 3.</color></size>=Mulailah dengan setiap takdir yang bergulir\n<size\=11><color\=#9db0cc>Di layar pembuatan karakter, karakter baru menyimpan semua takdir dari putaran terakhir (hingga 9), bukan hanya 3 yang dipilih.\nLayar masih menampilkan 3.</color></size>
+Start with my own destiny list\n<size\=11><color\=#9db0cc>On the character creation screen, the new character starts with the list below instead of the picked 3. The screen still shows the roll. Wins over the option above.</color></size>=Mulailah dengan daftar takdir saya sendiri\n<size\=11><color\=#9db0cc>Di layar pembuatan karakter, karakter baru dimulai dengan daftar di bawah, bukan yang dipilih 3. Layar masih menampilkan gulungannya.\nMenang atas opsi di atas.</color></size>
+<b>My starting destinies (up to 9)</b>=<b>Nasib awal saya (hingga 9)</b>
+Remove from list=Hapus dari daftar
+Clear list=Hapus daftar
+<color\=#9db0cc>The list is kept in the mod's settings, not in a save, so it applies to every new game while the option above is on.</color>=<color\=#9db0cc>Daftar ini disimpan dalam pengaturan mod, bukan dalam penyimpanan, sehingga berlaku untuk setiap game baru selama opsi di atas aktif.</color>
+Other=Lainnya
+<color\=#9db0cc>Sets your Spirit Stones to exactly this amount. Saved with the game.</color>=<color\=#9db0cc>Tetapkan Batu Roh Anda ke jumlah yang persis seperti ini.\nDisimpan dengan permainan.</color>
+<b><color\=#8fb4e0>Bagua Jade</color></b>=<b><color\=#8fb4e0>Bagua Giok</color></b>
+Bagua Jade Points=Poin Bagua Jade
+<color\=#9db0cc>How many times you can revive after dying in battle. On a difficulty where death ends the save, 0 means no revive. Saved with the game.</color>=<color\=#9db0cc>Berapa kali Anda bisa bangkit kembali setelah mati dalam pertempuran.\nPada tingkat kesulitan dimana kematian mengakhiri penyelamatan, 0 berarti tidak ada kebangkitan.\nDisimpan dengan permainan.</color>
+Refill Bagua Jade Points=Isi ulang Poin Bagua Jade
+<size\=12><color\=#9db0cc>Raises the points to this difficulty's starting number if they are below it.</color></size>=<size\=12><color\=#9db0cc>Menaikkan poin ke angka awal tingkat kesulitan ini jika berada di bawahnya.</color></size>
+Reset Bagua Jade cooldowns=Reset cooldown Bagua Jade
+<size\=12><color\=#9db0cc>Makes the Bagua Jade's soul transfer, summon and recall ready again now. Saved with the game.</color></size>=<size\=12><color\=#9db0cc>Membuat transfer jiwa Bagua Jade, pemanggilan dan pemanggilan kembali siap lagi sekarang.\nDisimpan dengan permainan.</color></size>
+<b><color\=#8fb4e0>Tooltips</color></b>=<b><color\=#8fb4e0>Keterangan alat</color></b>
+Real numbers in destiny tips\n<size\=11><color\=#9db0cc>The menu's destiny and Rewrite Destiny tips show your actual numbers instead of X. Only changes what the menu shows.</color></size>=Angka nyata dalam tip takdir\n<size\=11><color\=#9db0cc>Nasib menu dan tip Tulis Ulang Takdir menunjukkan angka sebenarnya, bukan X. Hanya mengubah apa yang ditampilkan menu.</color></size>
+Give spirit=Berikan semangat
+<color\=#9db0cc>Give yourself any artifact spirit. It arrives unfused; fuse it into an artifact as usual. Only you; saved with the game.</color>=<color\=#9db0cc>Beri diri Anda semangat artefak apa pun.\nItu tiba tanpa digunakan;\nmenggabungkannya menjadi artefak seperti biasa.\nHanya kamu;\ndisimpan dengan permainan.</color>
+<size\=12><color\=#9db0cc>Sets every one of your Artifact Spirits to the top Affinity. Saved with the game. Cannot be undone.</color></size>=<size\=12><color\=#9db0cc>Tetapkan setiap Artefak Spirit Anda ke Afinitas teratas.\nDisimpan dengan permainan.\nTidak dapat dibatalkan.</color></size>
+Max Affinity for all spirits=Afinitas Maks untuk semua roh
+No gift cooldown for Artifact Spirits\n<size\=11><color\=#9db0cc>A spirit can take another gift straight away after a gift raises its closeness tier.</color></size>=Tidak ada cooldown hadiah untuk Artifact Spirit\n<size\=11><color\=#9db0cc>Roh dapat langsung mengambil hadiah lain setelah hadiah meningkatkan tingkat kedekatannya.</color></size>
+Affinity multiplier=Pengganda afinitas
+Fast Artifact Spirit affinity\n<size\=11><color\=#9db0cc>Gifts to your Artifact Spirits give more Affinity, by the multiplier below, up to the game's maximum.</color></size>=Afinitas Roh Artefak Cepat\n<size\=11><color\=#9db0cc>Hadiah untuk Artefak Spirit Anda memberikan Afinitas lebih besar, dengan pengganda di bawah, hingga maksimum permainan.</color></size>
+Artifact Spirits=Roh Artefak
+<b><color\=#8fb4e0>Artifact Spirits</color></b>=<b><color\=#8fb4e0>Roh Artefak</color></b>
+<color\=#9db0cc>Your artifact spirits. Pick one to set its affinity, unlock its talents or delete it.</color>=<color\=#9db0cc>Roh artefakmu.\nPilih satu untuk menetapkan afinitasnya, membuka bakatnya, atau menghapusnya.</color>
+Unlock all talents=Buka semua talenta
+Delete spirit=Hapus semangat
+<color\=#9db0cc>Unlock all talents lights every talent node, ignoring costs, conditions and nodes that normally exclude each other. Delete removes the spirit for good and unfuses it from its artifact. Both cannot be undone.</color>=<color\=#9db0cc>Buka kunci semua talenta menyalakan setiap node talenta, mengabaikan biaya, kondisi, dan node yang biasanya mengecualikan satu sama lain.\nHapus menghilangkan semangat kebaikan dan melepaskannya dari artefaknya.\nKeduanya tidak dapat dibatalkan.</color>
+Beasts=binatang buas
+Eye of Providence always breaks through\n<size\=11><color\=#9db0cc>Breakthrough works without Insight into 5 higher-realm monsters. Your own realm must still be high enough.</color></size>=Eye of Providence selalu menerobos\n<size\=11><color\=#9db0cc>Terobosan bekerja tanpa Wawasan ke dalam 5 monster alam yang lebih tinggi.\nWilayahmu sendiri harusnya masih cukup tinggi.</color></size>
+<b><color\=#8fb4e0>Eye of Providence beasts</color></b>=<b><color\=#8fb4e0>Binatang Mata Providence</color></b>
+<color\=#9db0cc>Teach the Eye of Providence a beast skill without hunting the beast; the beast is registered too. Saved with the game; only matters while your divine artifact is the Eye of Providence.</color>=<color\=#9db0cc>Ajari Eye of Providence keterampilan binatang tanpa memburu binatang itu;\nbinatang itu terdaftar juga.\nDisimpan dengan permainan;\nhanya penting selama artefak ilahi Anda adalah Eye of Providence.</color>
+Teach skill=Ajarkan keterampilan
+Unlock every beast=Buka kunci setiap binatang
+<size\=12><color\=#9db0cc>Registers every beast with the Eye of Providence at the Eye's grade. Saved with the game; cannot be undone.</color></size>=<size\=12><color\=#9db0cc>Daftarkan setiap binatang dengan Eye of Providence pada tingkat Eye.\nDisimpan dengan permainan;\ntidak dapat dibatalkan.</color></size>
+Unlock every beast and skill=Buka kunci setiap binatang dan keterampilan
+<size\=12><color\=#9db0cc>Also teaches every beast skill. Saved with the game; cannot be undone.</color></size>=<size\=12><color\=#9db0cc>Juga mengajarkan setiap keterampilan binatang.\nDisimpan dengan permainan;\ntidak dapat dibatalkan.</color></size>
+Imps=Imp
+<b><color\=#8fb4e0>Imps</color></b>=<b><color\=#8fb4e0>Imp</color></b>
+Unlimited Imp contracts\n<size\=11><color\=#9db0cc>Lifts the limit of 3 contracted Imps. Contracts made past 3 stay with the save when switched off.</color></size>=Kontrak Imp tanpa batas\n<size\=11><color\=#9db0cc>Meningkatkan batas 3 Imp yang dikontrak.\nKontrak yang dibuat melewati jam 3 tetap dengan penyimpanan saat dimatikan.</color></size>
+<b><color\=#8fb4e0>Add imps</color></b>=<b><color\=#8fb4e0>Tambahkan imp</color></b>
+<color\=#9db0cc>Add imps to your Mythical Gourd. A refined imp goes straight into your imp list with skills rolled by the game's own refine; an unrefined one waits in the gourd for you to refine. Needs the gourd unlocked.</color>=<color\=#9db0cc>Tambahkan imp ke Mythical Gourd Anda.\nImp yang disempurnakan langsung masuk ke daftar imp Anda dengan keterampilan yang diperoleh dari pemurnian game itu sendiri;\nyang belum dimurnikan menunggu di dalam labu untuk kamu saring.\nPerlu membuka kunci labunya.</color>
+Realm (1-10)=Alam (1-10)
+Add refined imp=Tambahkan imp halus
+Add to gourd unrefined=Tambahkan ke labu mentah
+<color\=#9db0cc>Refined imps can go past the imp list's cap (the game shows it honestly and stops new refines until there is room). Unrefined imps stop at the gourd's capacity. Saved with the game.</color>=<color\=#9db0cc>Imp yang dimurnikan dapat melewati batas daftar imp (permainan menunjukkannya dengan jujur ​​dan menghentikan pemurnian baru hingga ada ruang).\nImp yang belum dimurnikan berhenti di kapasitas labu.\nDisimpan dengan permainan.</color>
+Souls=Jiwa
+<b><color\=#8fb4e0>Greenscale Spring</color></b>=<b><color\=#8fb4e0>Musim Semi Skala Hijau</color></b>
+Greenscale Spring always upgrades\n<size\=11><color\=#9db0cc>Upgrades past the region, destiny and story limits, and without being Sect Leader. The sect still pays. While on, the full level counts in every region.</color></size>=Greenscale Spring selalu ditingkatkan\n<size\=11><color\=#9db0cc>Peningkatan melampaui batas wilayah, takdir, dan cerita, dan tanpa menjadi Pemimpin Sekte.\nSekte ini masih membayar.\nSementara itu, level penuh diperhitungkan di setiap wilayah.</color></size>
+<color\=#9db0cc>The effects you chose for your Following Dragon at each Greenscale Spring level. Pick one, pick another effect from the same choice, then Replace. Only you; takes effect from the next battle.</color>=<color\=#9db0cc>Efek yang Anda pilih untuk Naga Pengikut Anda di setiap level Greenscale Spring.\nPilih satu, pilih efek lain dari pilihan yang sama, lalu Ganti.\nHanya kamu;\nberlaku mulai pertempuran berikutnya.</color>
+Replace effect=Ganti efek
+<b><color\=#8fb4e0>Tao Souls</color></b>=<b><color\=#8fb4e0>Jiwa Tao</color></b>
+<color\=#9db0cc>Create a Tao Soul with the attributes and purity you choose. Three souls that share the same three attributes can be fused for the Enlightenment breakthrough. Only you; goes into your bag.</color>=<color\=#9db0cc>Ciptakan Jiwa Tao dengan atribut dan kemurnian yang Anda pilih.\nTiga jiwa yang memiliki tiga atribut yang sama dapat digabungkan untuk terobosan Pencerahan.\nHanya kamu;\nmasuk ke dalam tasmu.</color>
+Main=Utama
+Vice=Keburukan
+Create one=Buat satu
+Create a matching set of 3=Buatlah kumpulan 3 yang cocok
+<color\=#9db0cc>Rewrite a Tao Soul already in your bag. Pick it, change its attributes or purity, then Apply.</color>=<color\=#9db0cc>Tulis ulang Jiwa Tao yang sudah ada di tas Anda.\nPilih, ubah atribut atau kemurniannya, lalu Terapkan.</color>
+Purity (0-100)=Kemurnian (0-100)
+<b><color\=#8fb4e0>Nether Feather</color></b>=<b><color\=#8fb4e0>Bulu Nether</color></b>
+<color\=#9db0cc>Swap your Nether Feather for another kind. Upgrades that belong only to the old one are dropped; the general ones are kept. Needs a Nether Feather already (Ascension). Saved with the game.</color>=<color\=#9db0cc>Tukar Nether Feather Anda dengan jenis lain.\nPeningkatan yang hanya dimiliki oleh yang lama akan dibatalkan;\nyang umum dipertahankan.\nSudah membutuhkan Nether Feather (Ascension).\nDisimpan dengan permainan.</color>
+Replace Nether Feather=Ganti Bulu Nether
+<b><color\=#8fb4e0>World time</color></b>=<b><color\=#8fb4e0>Waktu dunia</color></b>
+<color\=#9db0cc>From 1.5 to 10. Used while Global speed-up is on; saved for next time.</color>=<color\=#9db0cc>Dari 1,5 hingga 10. Digunakan saat Percepatan global aktif;\ndisimpan untuk waktu berikutnya.</color>
+Speed-up multiplier=Pengganda percepatan
+Global speed-up\n<size\=11><color\=#9db0cc>Speeds the whole game up by the multiplier below. Pauses still work.</color></size>=Percepatan global\n<size\=11><color\=#9db0cc>Mempercepat seluruh permainan dengan pengganda di bawah.\nJeda masih berfungsi.</color></size>
+Bullet time (half speed)\n<size\=11><color\=#9db0cc>Slows the whole game to half speed. Pauses still work; combines with Global speed-up.</color></size>=Waktu peluru (setengah kecepatan)\n<size\=11><color\=#9db0cc>Memperlambat seluruh permainan menjadi setengah kecepatan.\nJeda masih berfungsi;\ndikombinasikan dengan percepatan global.</color></size>
+<b><color\=#8fb4e0>Game speed</color></b>=<b><color\=#8fb4e0>Kecepatan permainan</color></b>
+Time=Waktu
+Stop world time\n<size\=11><color\=#9db0cc>Your actions use up no days, so the month never runs out. The game's Skip Month button still works. Only you.</color></size>=Hentikan waktu dunia\n<size\=11><color\=#9db0cc>Tindakanmu tidak menghabiskan waktu berhari-hari, sehingga bulan tidak pernah habis.\nTombol Lewati Bulan di game ini masih berfungsi.\nHanya kamu.</color></size>
+Keep running in the background\n<size\=11><color\=#9db0cc>The game keeps going when its window loses focus, without opening a menu or muting itself.</color></size>=Terus berjalan di latar belakang\n<size\=11><color\=#9db0cc>Permainan terus berjalan ketika jendelanya kehilangan fokus, tanpa membuka menu atau mematikannya sendiri.</color></size>
+Fewer days per tile\n<size\=11><color\=#9db0cc>Each step on the world map costs fewer days. Not saved: the Travel Speed attribute is the permanent version.</color></size>=Lebih sedikit hari per ubin\n<size\=11><color\=#9db0cc>Setiap langkah di peta dunia memakan waktu lebih sedikit hari.\nTidak disimpan: atribut Kecepatan Perjalanan adalah versi permanen.</color></size>
+Days per tile divided by=Hari per ubin dibagi
+<color\=#9db0cc>1 to 20. 4 means each tile costs a quarter of the days.</color>=<color\=#9db0cc>1 hingga 20. 4 berarti setiap ubin berharga seperempat hari.</color>
+Map=Peta
+<b><color\=#8fb4e0>Travel</color></b>=<b><color\=#8fb4e0>Bepergian</color></b>
+Walking speed multiplier=Pengganda kecepatan berjalan
+Faster walking\n<size\=11><color\=#9db0cc>Your figure walks across the world map faster. Days per tile do not change.</color></size>=Berjalan lebih cepat\n<size\=11><color\=#9db0cc>Sosok Anda berjalan melintasi peta dunia lebih cepat. Hari per ubin tidak berubah.</color></size>
+<color\=#9db0cc>1 to 10.</color>=<color\=#9db0cc>1 sampai 10.</color>
+No encounters in Dangerous Regions\n<size\=11><color\=#9db0cc>Walking through Dangerous Regions no longer stops you with a monster fight. Other random events still happen.</color></size>=Tidak ada pertemuan di Kawasan Berbahaya\n<size\=11><color\=#9db0cc>Berjalan melalui Kawasan Berbahaya tidak lagi menghentikan Anda dalam pertarungan monster.\nPeristiwa acak lainnya masih terjadi.</color></size>
+Invisible\n<size\=11><color\=#9db0cc>Gives you the game's Invisible destiny: you can sneak into some buildings of other sects; masters may still see you. Saved with the game.</color></size>=Tak terlihat\n<size\=11><color\=#9db0cc>Memberi Anda takdir permainan yang Tak Terlihat: Anda dapat menyelinap ke beberapa bangunan sekte lain;\ntuan mungkin masih melihatmu.\nDisimpan dengan permainan.</color></size>
+<b><color\=#8fb4e0>View</color></b>=<b><color\=#8fb4e0>Melihat</color></b>
+Wider exploration radius\n<size\=11><color\=#9db0cc>Uncovers more tiles around you as you move. Tiles uncovered stay uncovered.</color></size>=Radius eksplorasi lebih luas\n<size\=11><color\=#9db0cc>Temukan lebih banyak ubin di sekitar Anda saat Anda bergerak.\nUbin yang terbuka tetap terbuka.</color></size>
+Exploration radius (tiles)=Radius eksplorasi (ubin)
+<color\=#9db0cc>4 to 100. The game's usual radius is 3; some saves already have more, and the larger number wins.</color>=<color\=#9db0cc>4 hingga 100. Radius permainan yang biasa adalah 3;\nbeberapa penyelamatan sudah memiliki lebih banyak, dan jumlah yang lebih besar menang.</color>
+Zoom out further\n<size\=11><color\=#9db0cc>The mouse wheel zooms the world map out further than usual. Far zoom may show unloaded edges.</color></size>=Perkecil lebih jauh\n<size\=11><color\=#9db0cc>Roda mouse memperbesar peta dunia lebih jauh dari biasanya.\nZoom jauh mungkin menunjukkan tepi tanpa muatan.</color></size>
+Zoom-out limit multiplier=Pengganda batas perkecil
+<color\=#9db0cc>1 to 5.</color>=<color\=#9db0cc>1 sampai 5.</color>
+Reveal the whole map=Buka seluruh peta
+<size\=12><color\=#9db0cc>Uncovers every tile, as if explored. Saved with the game; Undo works until you load a save or close the game.</color></size>=<size\=12><color\=#9db0cc>Mengungkap setiap ubin, seolah dieksplorasi.\nDisimpan dengan permainan;\nUndo berfungsi sampai Anda memuat simpanan atau menutup permainan.</color></size>
+Undo the map reveal=Membatalkan pengungkapan peta
+<size\=12><color\=#9db0cc>Covers again only the tiles the reveal uncovered.</color></size>=<size\=12><color\=#9db0cc>Menutupi lagi hanya ubin yang terbuka.</color></size>
+See through the fog\n<size\=11><color\=#9db0cc>Shows the whole map while on, without marking it explored. Uses the game's debug view, which may show extra markers.</color></size>=Lihat menembus kabut\n<size\=11><color\=#9db0cc>Menampilkan seluruh peta saat aktif, tanpa menandai peta telah dieksplorasi.\nMenggunakan tampilan debug game, yang mungkin menampilkan penanda tambahan.</color></size>
+Larger figure on the map\n<size\=11><color\=#9db0cc>Scales your figure on the world map. Looks only.</color></size>=Angka yang lebih besar di peta\n<size\=11><color\=#9db0cc>Menskalakan sosok Anda di peta dunia.\nHanya tampak.</color></size>
+Figure size multiplier=Pengganda ukuran gambar
+<color\=#9db0cc>0.25 to 4.</color>=<color\=#9db0cc>0,25 hingga 4.</color>
+<b><color\=#8fb4e0>Teleport</color></b>=<b><color\=#8fb4e0>Teleportasi</color></b>
+<color\=#9db0cc>Moves you to that tile at once. No day passes. The game may refuse some tiles.</color>=<color\=#9db0cc>Memindahkan Anda ke ubin itu sekaligus.\nTidak ada hari yang berlalu.\nPermainan mungkin menolak beberapa ubin.</color>
+Down=Turun
+Up=Ke atas
+Right=Benar
+Left=Kiri
+Step=Melangkah
+Where I am=Dimana saya berada
+Go=Pergi
+Y=Y
+Ctrl+click on the map teleports\n<size\=11><color\=#9db0cc>While on, holding Ctrl and clicking a tile moves you there at once instead of walking. No day passes.</color></size>=Ctrl+klik pada teleport peta\n<size\=11><color\=#9db0cc>Saat aktif, menahan Ctrl dan mengklik ubin akan memindahkan Anda ke sana sekaligus alih-alih berjalan.\nTidak ada hari yang berlalu.</color></size>
+People=Rakyat
+<b><color\=#8fb4e0>Requests</color></b>=<b><color\=#8fb4e0>Permintaan</color></b>
+Bond requests always accepted\n<size\=11><color\=#9db0cc>NPCs agree when you ask for a bond (sworn sibling, Partner, marriage, master, disciple) or Dual Cultivation. Only you. The bond's own rules, such as one spouse, still apply.</color></size>=Permintaan obligasi selalu diterima\n<size\=11><color\=#9db0cc>NPC setuju ketika Anda meminta ikatan (saudara tersumpah, Mitra, pernikahan, master, murid) atau Budidaya Ganda.\nHanya kamu.\nAturan ikatannya sendiri, misalnya salah satu pasangan, tetap berlaku.</color></size>
+Sect recruits always accept\n<size\=11><color\=#9db0cc>NPCs accept your invitation to join your sect, even ones who would refuse (just left a sect, low affinity). Only you.</color></size>=Perekrutan sekte selalu menerima\n<size\=11><color\=#9db0cc>NPC menerima undangan Anda untuk bergabung dengan sekte Anda, bahkan mereka yang menolak (baru saja meninggalkan sekte, afinitas rendah).\nHanya kamu.</color></size>
+<b><color\=#8fb4e0>Find a character</color></b>=<b><color\=#8fb4e0>Temukan karakter</color></b>
+Teleport to them=Teleportasi ke mereka
+<size\=12><color\=#a0a0a0>Moves you onto their tile, or beside it. No day passes.</color></size>=<size\=12><color\=#a0a0a0>Memindahkan Anda ke ubinnya, atau di sampingnya.\nTidak ada hari yang berlalu.</color></size>
+Places=Tempat
+<b><color\=#8fb4e0>Open anywhere</color></b>=<b><color\=#8fb4e0>Buka di mana saja</color></b>
+Open town Storage=Buka Penyimpanan kota
+<size\=12><color\=#9db0cc>Opens the town Storage window from anywhere on the world map, bound to the nearest town.</color></size>=<size\=12><color\=#9db0cc>Membuka jendela Penyimpanan kota dari mana saja di peta dunia, terikat ke kota terdekat.</color></size>
+Open town Portal=Buka Portal kota
+<size\=12><color\=#9db0cc>Opens the town Portal's destination list from anywhere on the world map. Travel costs what a Portal charges.</color></size>=<size\=12><color\=#9db0cc>Membuka daftar tujuan Portal kota dari mana saja di peta dunia.\nBiaya perjalanan sama dengan biaya Portal.</color></size>
+<b><color\=#8fb4e0>Auction</color></b>=<b><color\=#8fb4e0>Lelang</color></b>
+Start an auction now=Mulai lelang sekarang
+<size\=12><color\=#9db0cc>Starts a new Auction House auction in the nearest town that has one. Refused while one is running.</color></size>=<size\=12><color\=#9db0cc>Memulai lelang Rumah Lelang baru di kota terdekat yang memilikinya.\nMenolak saat seseorang sedang berjalan.</color></size>
+Repair Eye of Providence now=Perbaiki Eye of Providence sekarang
+<size\=12><color\=#9db0cc>Mends a broken Eye of Providence at once, with no repair wait. Saved with the game.</color></size>=<size\=12><color\=#9db0cc>Memperbaiki Eye of Providence yang rusak sekaligus, tanpa menunggu perbaikan.\nDisimpan dengan permainan.</color></size>
+Heavenly artifact=Artefak surgawi
+Switch artifact=Ganti artefak
+<size\=12><color\=#a0a0a0>Replaces this save's heavenly artifact with the one picked, repaired. Saved with the game.</color></size>=<size\=12><color\=#a0a0a0>Menggantikan artefak surgawi simpanan ini dengan yang diambil, diperbaiki.\nDisimpan dengan permainan.</color></size>
+<b><color\=#8fb4e0>Sects</color></b>=<b><color\=#8fb4e0>Sekte</color></b>
+Enter other sects' buildings\n<size\=11><color\=#9db0cc>Open buildings of sects you are not in, whatever your Sect Affinity. Buildings the sect screen does not show you stay hidden.</color></size>=Masuki gedung sekte lain\n<size\=11><color\=#9db0cc>Buka gedung sekte tempat Anda tidak berada, apa pun Afinitas Sekte Anda.\nMembangun layar sekte tidak menunjukkan Anda tetap bersembunyi.</color></size>
+<b><color\=#8fb4e0>Sect resources</color></b>=<b><color\=#8fb4e0>Sumber daya sekte</color></b>
+Edit your sect=Edit sekte Anda
+Detect current sect=Deteksi sekte saat ini
+<size\=12><color\=#a0a0a0>or pick any sect from the list below the boxes.</color></size>=<size\=12><color\=#a0a0a0>atau pilih sekte mana pun dari daftar di bawah kotak.</color></size>
+<color\=#9db0cc>Each box sets the sect's value at once. Loyalty stops at 100 and Stability at 1000; the sect earns and spends these every month.</color>=<color\=#9db0cc>Setiap kotak menetapkan nilai sekte sekaligus.\nLoyalitas berhenti di 100 dan Stabilitas di 1000;\nsekte ini memperoleh dan membelanjakannya setiap bulan.</color>
+Prestige=Prestise
+Ore=Bijih
+Prosperity=Kemakmuran
+Loyalty=Loyalitas
+Stability=Stabilitas
+<b><color\=#8fb4e0>Every sect</color></b>=<b><color\=#8fb4e0>Setiap sekte</color></b>
+<b><color\=#8fb4e0>Sect contribution</color></b>=<b><color\=#8fb4e0>Kontribusi sekte</color></b>
+Sect Contribution (held)=Kontribusi Sekte (diadakan)
+<color\=#9db0cc>What you can spend in sect shops. Setting it leaves Total Sect Contribution as it is. Only you.</color>=<color\=#9db0cc>Apa yang bisa Anda belanjakan di toko sekte.\nMenyetelnya membiarkan Total Sect Contribution apa adanya.\nHanya kamu.</color>
+Total Sect Contribution=Kontribusi Total Sekte
+<color\=#9db0cc>The lifetime total sect posts are judged by; spending never lowers it. Only you.</color>=<color\=#9db0cc>Total jabatan sekte seumur hidup dinilai berdasarkan;\npengeluaran tidak pernah menurunkannya.\nHanya kamu.</color>
+Difficulty=Kesulitan
+<b><color\=#8fb4e0>New game</color></b>=<b><color\=#8fb4e0>Permainan baru</color></b>
+Unlock all difficulties\n<size\=11><color\=#9db0cc>Acts on the New Game screen: every difficulty can be picked, unlocked or not. Switch it on before opening that screen.</color></size>=Buka kunci semua kesulitan\n<size\=11><color\=#9db0cc>Bertindak di layar Game Baru: setiap kesulitan dapat dipilih, dibuka atau tidak.\nAktifkan sebelum membuka layar itu.</color></size>
+Any artifact at game start\n<size\=11><color\=#9db0cc>Acts on the New Game screen: the opening artifact choice offers the Eye of Providence and the Mythical Gourd, unlocked or not.</color></size>=Artefak apa pun di awal permainan\n<size\=11><color\=#9db0cc>Bertindak di layar Game Baru: pilihan artefak pembuka menawarkan Eye of Providence dan Mythical Gourd, tidak terkunci atau tidak.</color></size>
+Unlock all for good=Buka kunci semuanya untuk selamanya
+<size\=12><color\=#9db0cc>Writes all five difficulties into the game's own unlock list, so they stay open without this menu. Cannot be undone.</color></size>=<size\=12><color\=#9db0cc>Menuliskan kelima tingkat kesulitan ke dalam daftar buka kunci game, sehingga tetap terbuka tanpa menu ini.\nTidak dapat dibatalkan.</color></size>
+<b><color\=#8fb4e0>This save</color></b>=<b><color\=#8fb4e0>Penghematan ini</color></b>
+Difficulty of this save=Kesulitan penyelamatan ini
+Menu language=Bahasa menu
+Language=Bahasa
+<color\=#9db0cc>F3 opens and closes the menu. Drag the title to move it and the dotted corner at the bottom right to resize it; it opens where you left it. The search box in the title finds any entry by name.</color>=<color\=#9db0cc>F3 membuka dan menutup menu.\nSeret judul untuk memindahkannya dan sudut putus-putus di kanan bawah untuk mengubah ukurannya;\nitu terbuka di tempat Anda meninggalkannya.\nKotak pencarian di judul menemukan entri apa pun berdasarkan nama.</color>
+<size\=12><color\=#9db0cc>Puts the window back in the middle of the screen at its first size.</color></size>=<size\=12><color\=#9db0cc>Menempatkan kembali jendela di tengah layar pada ukuran aslinya.</color></size>
